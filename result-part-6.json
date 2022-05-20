@@ -1,0 +1,4850 @@
+[
+  {
+    "english": "lift",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/lift_2",
+    "url_audion_1": "/media/english/us_pron/l/lif/lift_/lift__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lif/lift_/lift__gb_2.mp3"
+  },
+  {
+    "english": "lift",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/lift_1",
+    "url_audion_1": "/media/english/us_pron/l/lif/lift_/lift__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lif/lift_/lift__gb_2.mp3"
+  },
+  {
+    "english": "light",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/light_2",
+    "url_audion_1": "/media/english/us_pron/l/lig/light/light__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lig/light/light__gb_2.mp3"
+  },
+  {
+    "english": "light",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/light_1",
+    "url_audion_1": "/media/english/us_pron/l/lig/light/light__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lig/light/light__gb_2.mp3"
+  },
+  {
+    "english": "light",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/light_3",
+    "url_audion_1": "/media/english/us_pron/l/lig/light/light__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lig/light/light__gb_2.mp3"
+  },
+  {
+    "english": "lighting",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/lighting",
+    "url_audion_1": "/media/english/us_pron/l/lig/light/lighting__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lig/light/lighting__gb_1.mp3"
+  },
+  {
+    "english": "like",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/like_4",
+    "url_audion_1": "/media/english/us_pron/l/lik/like_/like__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lik/like_/like__gb_1.mp3"
+  },
+  {
+    "english": "like",
+    "type": "preposition",
+    "level": "a1",
+    "url_definition": "/definition/english/like_1",
+    "url_audion_1": "/media/english/us_pron/l/lik/like_/like__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lik/like_/like__gb_1.mp3"
+  },
+  {
+    "english": "like",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/like_3",
+    "url_audion_1": "/media/english/us_pron/l/lik/like_/like__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lik/like_/like__gb_1.mp3"
+  },
+  {
+    "english": "likelihood",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/likelihood",
+    "url_audion_1": "/media/english/us_pron/l/lik/likel/likelihood__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lik/likel/likelihood__gb_1.mp3"
+  },
+  {
+    "english": "likely",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/likely_1",
+    "url_audion_1": "/media/english/us_pron/l/lik/likel/likely__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lik/likel/likely__gb_2.mp3"
+  },
+  {
+    "english": "likewise",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/likewise",
+    "url_audion_1": "/media/english/us_pron/l/lik/likew/likewise__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lik/likew/likewise__gb_1.mp3"
+  },
+  {
+    "english": "limb",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/limb",
+    "url_audion_1": "/media/english/us_pron/l/lim/limb_/limb__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lim/limb_/limb__gb_1.mp3"
+  },
+  {
+    "english": "limit",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/limit_1",
+    "url_audion_1": "/media/english/us_pron/l/lim/limit/limit__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lim/limit/limit__gb_2.mp3"
+  },
+  {
+    "english": "limit",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/limit_2",
+    "url_audion_1": "/media/english/us_pron/l/lim/limit/limit__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lim/limit/limit__gb_2.mp3"
+  },
+  {
+    "english": "limitation",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/limitation",
+    "url_audion_1": "/media/english/us_pron/l/lim/limit/limitation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lim/limit/limitation__gb_2.mp3"
+  },
+  {
+    "english": "limited",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/limited",
+    "url_audion_1": "/media/english/us_pron/l/lim/limit/limited__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lim/limit/limited__gb_1.mp3"
+  },
+  {
+    "english": "line",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/line_1",
+    "url_audion_1": "/media/english/us_pron/l/lin/line_/line__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lin/line_/line__gb_1.mp3"
+  },
+  {
+    "english": "line",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/line_2",
+    "url_audion_1": "/media/english/us_pron/l/lin/line_/line__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lin/line_/line__gb_1.mp3"
+  },
+  {
+    "english": "line-up",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/line-up_2",
+    "url_audion_1": "/media/english/us_pron/l/lin/line_/line_up_1_us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lin/line_/line_up_1_gb_1.mp3"
+  },
+  {
+    "english": "linear",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/linear",
+    "url_audion_1": "/media/english/us_pron/l/lin/linea/linear__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lin/linea/linear__gb_1.mp3"
+  },
+  {
+    "english": "linger",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/linger",
+    "url_audion_1": "/media/english/us_pron/l/lin/linge/linger__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lin/linge/linger__gb_1.mp3"
+  },
+  {
+    "english": "link",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/link_1",
+    "url_audion_1": "/media/english/us_pron/l/lin/link_/link__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lin/link_/link__gb_2.mp3"
+  },
+  {
+    "english": "link",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/link_2",
+    "url_audion_1": "/media/english/us_pron/l/lin/link_/link__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lin/link_/link__gb_2.mp3"
+  },
+  {
+    "english": "lion",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/lion",
+    "url_audion_1": "/media/english/us_pron/l/lio/lion_/lion__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lio/lion_/lion__gb_2.mp3"
+  },
+  {
+    "english": "lip",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/lip",
+    "url_audion_1": "/media/english/us_pron/l/lip/lip__/lip__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lip/lip__/lip__gb_1.mp3"
+  },
+  {
+    "english": "liquid",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/liquid_2",
+    "url_audion_1": "/media/english/us_pron/l/liq/liqui/liquid__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liq/liqui/liquid__gb_1.mp3"
+  },
+  {
+    "english": "liquid",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/liquid_1",
+    "url_audion_1": "/media/english/us_pron/l/liq/liqui/liquid__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liq/liqui/liquid__gb_1.mp3"
+  },
+  {
+    "english": "list",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/list_1",
+    "url_audion_1": "/media/english/us_pron/l/lis/list_/list__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lis/list_/list__gb_1.mp3"
+  },
+  {
+    "english": "list",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/list_2",
+    "url_audion_1": "/media/english/us_pron/l/lis/list_/list__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lis/list_/list__gb_1.mp3"
+  },
+  {
+    "english": "listen",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/listen_1",
+    "url_audion_1": "/media/english/us_pron/l/lis/liste/listen__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lis/liste/listen__gb_1.mp3"
+  },
+  {
+    "english": "listener",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/listener",
+    "url_audion_1": "/media/english/us_pron/l/lis/liste/listener__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lis/liste/listener__gb_1.mp3"
+  },
+  {
+    "english": "listing",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/listing",
+    "url_audion_1": "/media/english/us_pron/l/lis/listi/listing__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lis/listi/listing__gb_1.mp3"
+  },
+  {
+    "english": "literacy",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/literacy",
+    "url_audion_1": "/media/english/us_pron/l/lit/liter/literacy__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/liter/literacy__gb_2.mp3"
+  },
+  {
+    "english": "literally",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/literally",
+    "url_audion_1": "/media/english/us_pron/l/lit/liter/literally__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/liter/literally__gb_1.mp3"
+  },
+  {
+    "english": "literary",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/literary",
+    "url_audion_1": "/media/english/us_pron/l/lit/liter/literary__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/liter/literary__gb_1.mp3"
+  },
+  {
+    "english": "literature",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/literature",
+    "url_audion_1": "/media/english/us_pron/l/lit/liter/literature__us_7.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/liter/literature__gb_3.mp3"
+  },
+  {
+    "english": "litre",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/litre",
+    "url_audion_1": "/media/english/us_pron/l/lit/litre/litre__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/litre/litre__gb_1.mp3"
+  },
+  {
+    "english": "litter",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/litter_1",
+    "url_audion_1": "/media/english/us_pron/l/lit/litte/litter__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/litte/litter__gb_1.mp3"
+  },
+  {
+    "english": "little",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/little_1",
+    "url_audion_1": "/media/english/us_pron/l/lit/littl/little__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/littl/little__gb_2.mp3"
+  },
+  {
+    "english": "little",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/little_3",
+    "url_audion_1": "/media/english/us_pron/l/lit/littl/little__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/littl/little__gb_2.mp3"
+  },
+  {
+    "english": "little",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/little_2",
+    "url_audion_1": "/media/english/us_pron/l/lit/littl/little__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/littl/little__gb_2.mp3"
+  },
+  {
+    "english": "little",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/little_2",
+    "url_audion_1": "/media/english/us_pron/l/lit/littl/little__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lit/littl/little__gb_2.mp3"
+  },
+  {
+    "english": "live",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/live2_1",
+    "url_audion_1": "/media/english/us_pron/l/liv/live_/live__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liv/live_/live__gb_2.mp3"
+  },
+  {
+    "english": "live",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/live2_2",
+    "url_audion_1": "/media/english/us_pron/l/liv/live_/live__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liv/live_/live__gb_2.mp3"
+  },
+  {
+    "english": "live",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/live1",
+    "url_audion_1": "/media/english/us_pron/l/liv/live_/live__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liv/live_/live__gb_1.mp3"
+  },
+  {
+    "english": "lively",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/lively",
+    "url_audion_1": "/media/english/us_pron/l/liv/livel/lively__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liv/livel/lively__gb_1.mp3"
+  },
+  {
+    "english": "liver",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/liver",
+    "url_audion_1": "/media/english/us_pron/l/liv/liver/liver__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liv/liver/liver__gb_1.mp3"
+  },
+  {
+    "english": "living",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/living_1",
+    "url_audion_1": "/media/english/us_pron/l/liv/livin/living__us_5.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liv/livin/living__gb_1.mp3"
+  },
+  {
+    "english": "living",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/living_2",
+    "url_audion_1": "/media/english/us_pron/l/liv/livin/living__us_5.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/liv/livin/living__gb_1.mp3"
+  },
+  {
+    "english": "load",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/load_1",
+    "url_audion_1": "/media/english/us_pron/l/loa/load_/load__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loa/load_/load__gb_1.mp3"
+  },
+  {
+    "english": "load",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/load_2",
+    "url_audion_1": "/media/english/us_pron/l/loa/load_/load__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loa/load_/load__gb_1.mp3"
+  },
+  {
+    "english": "loan",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/loan_1",
+    "url_audion_1": "/media/english/us_pron/l/loa/loan_/loan__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loa/loan_/loan__gb_2.mp3"
+  },
+  {
+    "english": "lobby",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/lobby_1",
+    "url_audion_1": "/media/english/us_pron/l/lob/lobby/lobby__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lob/lobby/lobby__gb_1.mp3"
+  },
+  {
+    "english": "lobby",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/lobby_2",
+    "url_audion_1": "/media/english/us_pron/l/lob/lobby/lobby__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lob/lobby/lobby__gb_1.mp3"
+  },
+  {
+    "english": "local",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/local_1",
+    "url_audion_1": "/media/english/us_pron/l/loc/local/local__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loc/local/local__gb_3.mp3"
+  },
+  {
+    "english": "local",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/local_2",
+    "url_audion_1": "/media/english/us_pron/l/loc/local/local__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loc/local/local__gb_3.mp3"
+  },
+  {
+    "english": "locate",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/locate",
+    "url_audion_1": "/media/english/us_pron/l/loc/locat/locate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loc/locat/locate__gb_1.mp3"
+  },
+  {
+    "english": "located",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/located",
+    "url_audion_1": "/media/english/us_pron/l/loc/locat/located__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loc/locat/located__gb_3.mp3"
+  },
+  {
+    "english": "location",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/location",
+    "url_audion_1": "/media/english/us_pron/l/loc/locat/location__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loc/locat/location__gb_2.mp3"
+  },
+  {
+    "english": "lock",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/lock_2",
+    "url_audion_1": "/media/english/us_pron/l/loc/lock_/lock__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loc/lock_/lock__gb_1.mp3"
+  },
+  {
+    "english": "lock",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/lock_1",
+    "url_audion_1": "/media/english/us_pron/l/loc/lock_/lock__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loc/lock_/lock__gb_1.mp3"
+  },
+  {
+    "english": "log",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/log_1",
+    "url_audion_1": "/media/english/us_pron/l/log/log__/log__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/log/log__/log__gb_1.mp3"
+  },
+  {
+    "english": "log",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/log_3",
+    "url_audion_1": "/media/english/us_pron/l/log/log__/log__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/log/log__/log__gb_1.mp3"
+  },
+  {
+    "english": "logic",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/logic_1",
+    "url_audion_1": "/media/english/us_pron/l/log/logic/logic__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/log/logic/logic__gb_1.mp3"
+  },
+  {
+    "english": "logical",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/logical_1",
+    "url_audion_1": "/media/english/us_pron/l/log/logic/logical__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/log/logic/logical__gb_2.mp3"
+  },
+  {
+    "english": "logo",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/logo",
+    "url_audion_1": "/media/english/us_pron/l/log/logo_/logo__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/log/logo_/logo__gb_1.mp3"
+  },
+  {
+    "english": "lonely",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/lonely",
+    "url_audion_1": "/media/english/us_pron/l/lon/lonel/lonely__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lon/lonel/lonely__gb_1.mp3"
+  },
+  {
+    "english": "long",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/long_1",
+    "url_audion_1": "/media/english/us_pron/l/lon/long_/long__us_8.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lon/long_/long__gb_2.mp3"
+  },
+  {
+    "english": "long",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/long_2",
+    "url_audion_1": "/media/english/us_pron/l/lon/long_/long__us_8.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lon/long_/long__gb_2.mp3"
+  },
+  {
+    "english": "long-standing",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/long-standing",
+    "url_audion_1": "/media/english/us_pron/l/lon/long_/long_standing_1_us_5.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lon/long_/long_standing_1_gb_1.mp3"
+  },
+  {
+    "english": "long-term",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/long-term_2",
+    "url_audion_1": "/media/english/us_pron/l/lon/long_/long_term_1_us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lon/long_/long_term_1_gb_2.mp3"
+  },
+  {
+    "english": "long-term",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/long-term_1",
+    "url_audion_1": "/media/english/us_pron/l/lon/long_/long_term_1_us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lon/long_/long_term_1_gb_2.mp3"
+  },
+  {
+    "english": "long-time",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/long-time",
+    "url_audion_1": "/media/english/us_pron/l/lon/long_/long_time_1_us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lon/long_/long_time_1_gb_3.mp3"
+  },
+  {
+    "english": "look",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/look_2",
+    "url_audion_1": "/media/english/us_pron/l/loo/look_/look__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loo/look_/look__gb_1.mp3"
+  },
+  {
+    "english": "look",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/look_1",
+    "url_audion_1": "/media/english/us_pron/l/loo/look_/look__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loo/look_/look__gb_1.mp3"
+  },
+  {
+    "english": "loom",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/loom_1",
+    "url_audion_1": "/media/english/us_pron/l/loo/loom_/loom__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loo/loom_/loom__gb_1.mp3"
+  },
+  {
+    "english": "loop",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/loop_1",
+    "url_audion_1": "/media/english/us_pron/l/loo/loop_/loop__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loo/loop_/loop__gb_1.mp3"
+  },
+  {
+    "english": "loose",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/loose_1",
+    "url_audion_1": "/media/english/us_pron/l/loo/loose/loose__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loo/loose/loose__gb_1.mp3"
+  },
+  {
+    "english": "lord",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/lord_1",
+    "url_audion_1": "/media/english/us_pron/l/lor/lord_/lord__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lor/lord_/lord__gb_1.mp3"
+  },
+  {
+    "english": "lorry",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/lorry",
+    "url_audion_1": "/media/english/us_pron/l/lor/lorry/lorry__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lor/lorry/lorry__gb_2.mp3"
+  },
+  {
+    "english": "lose",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/lose",
+    "url_audion_1": "/media/english/us_pron/l/los/lose_/lose__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/los/lose_/lose__gb_1.mp3"
+  },
+  {
+    "english": "loss",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/loss",
+    "url_audion_1": "/media/english/us_pron/l/los/loss_/loss__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/los/loss_/loss__gb_3.mp3"
+  },
+  {
+    "english": "lost",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/lost_1",
+    "url_audion_1": "/media/english/us_pron/l/los/lost_/lost__us_6.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/los/lost_/lost__gb_2.mp3"
+  },
+  {
+    "english": "lot",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/lot_3",
+    "url_audion_1": "/media/english/us_pron/l/lot/lot__/lot__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lot/lot__/lot__gb_1.mp3"
+  },
+  {
+    "english": "lot",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/lot_2",
+    "url_audion_1": "/media/english/us_pron/l/lot/lot__/lot__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lot/lot__/lot__gb_1.mp3"
+  },
+  {
+    "english": "lot",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/lot_1",
+    "url_audion_1": "/media/english/us_pron/l/lot/lot__/lot__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lot/lot__/lot__gb_1.mp3"
+  },
+  {
+    "english": "lottery",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/lottery",
+    "url_audion_1": "/media/english/us_pron/l/lot/lotte/lottery__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lot/lotte/lottery__gb_1.mp3"
+  },
+  {
+    "english": "loud",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/loud_1",
+    "url_audion_1": "/media/english/us_pron/l/lou/loud_/loud__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lou/loud_/loud__gb_1.mp3"
+  },
+  {
+    "english": "loud",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/loud_2",
+    "url_audion_1": "/media/english/us_pron/l/lou/loud_/loud__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lou/loud_/loud__gb_1.mp3"
+  },
+  {
+    "english": "loudly",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/loudly",
+    "url_audion_1": "/media/english/us_pron/l/lou/loudl/loudly__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lou/loudl/loudly__gb_1.mp3"
+  },
+  {
+    "english": "love",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/love_1",
+    "url_audion_1": "/media/english/us_pron/l/lov/love_/love__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lov/love_/love__gb_1.mp3"
+  },
+  {
+    "english": "love",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/love_2",
+    "url_audion_1": "/media/english/us_pron/l/lov/love_/love__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lov/love_/love__gb_1.mp3"
+  },
+  {
+    "english": "lovely",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/lovely_1",
+    "url_audion_1": "/media/english/us_pron/l/lov/lovel/lovely__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lov/lovel/lovely__gb_1.mp3"
+  },
+  {
+    "english": "low",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/low_1",
+    "url_audion_1": "/media/english/us_pron/l/low/low__/low__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/low/low__/low__gb_3.mp3"
+  },
+  {
+    "english": "low",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/low_2",
+    "url_audion_1": "/media/english/us_pron/l/low/low__/low__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/low/low__/low__gb_3.mp3"
+  },
+  {
+    "english": "low",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/low_3",
+    "url_audion_1": "/media/english/us_pron/l/low/low__/low__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/low/low__/low__gb_3.mp3"
+  },
+  {
+    "english": "lower",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/lower1_1",
+    "url_audion_1": "/media/english/us_pron/l/low/lower/lower__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/low/lower/lower__gb_1.mp3"
+  },
+  {
+    "english": "loyal",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/loyal",
+    "url_audion_1": "/media/english/us_pron/l/loy/loyal/loyal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loy/loyal/loyal__gb_2.mp3"
+  },
+  {
+    "english": "loyalty",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/loyalty",
+    "url_audion_1": "/media/english/us_pron/l/loy/loyal/loyalty__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/loy/loyal/loyalty__gb_1.mp3"
+  },
+  {
+    "english": "luck",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/luck_1",
+    "url_audion_1": "/media/english/us_pron/l/luc/luck_/luck__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/luc/luck_/luck__gb_1.mp3"
+  },
+  {
+    "english": "lucky",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/lucky",
+    "url_audion_1": "/media/english/us_pron/l/luc/lucky/lucky__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/luc/lucky/lucky__gb_1.mp3"
+  },
+  {
+    "english": "lunch",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/lunch_1",
+    "url_audion_1": "/media/english/us_pron/l/lun/lunch/lunch__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lun/lunch/lunch__gb_1.mp3"
+  },
+  {
+    "english": "lung",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/lung",
+    "url_audion_1": "/media/english/us_pron/l/lun/lung_/lung__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lun/lung_/lung__gb_1.mp3"
+  },
+  {
+    "english": "luxury",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/luxury_2",
+    "url_audion_1": "/media/english/us_pron/l/lux/luxur/luxury__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lux/luxur/luxury__gb_1.mp3"
+  },
+  {
+    "english": "luxury",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/luxury_1",
+    "url_audion_1": "/media/english/us_pron/l/lux/luxur/luxury__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lux/luxur/luxury__gb_1.mp3"
+  },
+  {
+    "english": "lyric",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/lyric_1",
+    "url_audion_1": "/media/english/us_pron/l/lyr/lyric/lyric__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/l/lyr/lyric/lyric__gb_1.mp3"
+  },
+  {
+    "english": "machine",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/machine_1",
+    "url_audion_1": "/media/english/us_pron/m/mac/machi/machine__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mac/machi/machine__gb_1.mp3"
+  },
+  {
+    "english": "machinery",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/machinery",
+    "url_audion_1": "/media/english/us_pron/m/mac/machi/machinery__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mac/machi/machinery__gb_1.mp3"
+  },
+  {
+    "english": "mad",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/mad_1",
+    "url_audion_1": "/media/english/us_pron/m/mad/mad__/mad__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mad/mad__/mad__gb_1.mp3"
+  },
+  {
+    "english": "magazine",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/magazine",
+    "url_audion_1": "/media/english/us_pron/m/mag/magaz/magazine__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magaz/magazine__gb_1.mp3"
+  },
+  {
+    "english": "magic",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/magic_2",
+    "url_audion_1": "/media/english/us_pron/m/mag/magic/magic__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magic/magic__gb_1.mp3"
+  },
+  {
+    "english": "magic",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/magic_1",
+    "url_audion_1": "/media/english/us_pron/m/mag/magic/magic__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magic/magic__gb_1.mp3"
+  },
+  {
+    "english": "magical",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/magical",
+    "url_audion_1": "/media/english/us_pron/m/mag/magic/magical__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magic/magical__gb_1.mp3"
+  },
+  {
+    "english": "magistrate",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/magistrate",
+    "url_audion_1": "/media/english/us_pron/m/mag/magis/magistrate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magis/magistrate__gb_1.mp3"
+  },
+  {
+    "english": "magnetic",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/magnetic",
+    "url_audion_1": "/media/english/us_pron/m/mag/magne/magnetic__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magne/magnetic__gb_1.mp3"
+  },
+  {
+    "english": "magnificent",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/magnificent",
+    "url_audion_1": "/media/english/us_pron/m/mag/magni/magnificent__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magni/magnificent__gb_1.mp3"
+  },
+  {
+    "english": "magnitude",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/magnitude",
+    "url_audion_1": "/media/english/us_pron/m/mag/magni/magnitude__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mag/magni/magnitude__gb_1.mp3"
+  },
+  {
+    "english": "mail",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/mail_1",
+    "url_audion_1": "/media/english/us_pron/m/mai/mail_/mail__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/mail_/mail__gb_1.mp3"
+  },
+  {
+    "english": "mail",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/mail_2",
+    "url_audion_1": "/media/english/us_pron/m/mai/mail_/mail__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/mail_/mail__gb_1.mp3"
+  },
+  {
+    "english": "main",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/main_1",
+    "url_audion_1": "/media/english/us_pron/m/mai/main_/main__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/main_/main__gb_1.mp3"
+  },
+  {
+    "english": "mainland",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/the-mainland",
+    "url_audion_1": "/media/english/us_pron/m/mai/mainl/mainland__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/mainl/mainland__gb_2.mp3"
+  },
+  {
+    "english": "mainly",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/mainly",
+    "url_audion_1": "/media/english/us_pron/m/mai/mainl/mainly__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/mainl/mainly__gb_1.mp3"
+  },
+  {
+    "english": "mainstream",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/mainstream_2",
+    "url_audion_1": "/media/english/us_pron/m/mai/mains/mainstream__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/mains/mainstream__gb_1.mp3"
+  },
+  {
+    "english": "mainstream",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mainstream_1",
+    "url_audion_1": "/media/english/us_pron/m/mai/mains/mainstream__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/mains/mainstream__gb_1.mp3"
+  },
+  {
+    "english": "maintain",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/maintain",
+    "url_audion_1": "/media/english/us_pron/m/mai/maint/maintain__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/maint/maintain__gb_3.mp3"
+  },
+  {
+    "english": "maintenance",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/maintenance",
+    "url_audion_1": "/media/english/us_pron/m/mai/maint/maintenance__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mai/maint/maintenance__gb_1.mp3"
+  },
+  {
+    "english": "major",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/major_1",
+    "url_audion_1": "/media/english/us_pron/m/maj/major/major__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/maj/major/major__gb_2.mp3"
+  },
+  {
+    "english": "major",
+    "type": "noun",
+    "level": "",
+    "url_definition": "/definition/english/major_2",
+    "url_audion_1": "",
+    "url_audion_2": "/media/english/us_pron/m/maj/major/major__us_2.mp3"
+  },
+  {
+    "english": "majority",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/majority",
+    "url_audion_1": "/media/english/us_pron/m/maj/major/majority__us_3_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/maj/major/majority__gb_3.mp3"
+  },
+  {
+    "english": "make",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/make_2",
+    "url_audion_1": "/media/english/us_pron/m/mak/make_/make__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mak/make_/make__gb_1.mp3"
+  },
+  {
+    "english": "make",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/make_1",
+    "url_audion_1": "/media/english/us_pron/m/mak/make_/make__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mak/make_/make__gb_1.mp3"
+  },
+  {
+    "english": "make-up",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/make-up_2",
+    "url_audion_1": "/media/english/us_pron/m/mak/make_/make_up_1_us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mak/make_/make_up_1_gb_1.mp3"
+  },
+  {
+    "english": "making",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/making",
+    "url_audion_1": "/media/english/us_pron/m/mak/makin/making__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mak/makin/making__gb_1.mp3"
+  },
+  {
+    "english": "male",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/male_1",
+    "url_audion_1": "/media/english/us_pron/m/mal/male_/male__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mal/male_/male__gb_1.mp3"
+  },
+  {
+    "english": "male",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/male_2",
+    "url_audion_1": "/media/english/us_pron/m/mal/male_/male__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mal/male_/male__gb_1.mp3"
+  },
+  {
+    "english": "mall",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mall_1",
+    "url_audion_1": "/media/english/us_pron/m/mal/mall_/mall__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mal/mall_/mall__gb_1.mp3"
+  },
+  {
+    "english": "man",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/man_1",
+    "url_audion_1": "/media/english/us_pron/m/man/man__/man__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/man__/man__gb_2.mp3"
+  },
+  {
+    "english": "manage",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/manage",
+    "url_audion_1": "/media/english/us_pron/m/man/manag/manage__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manag/manage__gb_1.mp3"
+  },
+  {
+    "english": "management",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/management",
+    "url_audion_1": "/media/english/us_pron/m/man/manag/management__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manag/management__gb_2.mp3"
+  },
+  {
+    "english": "manager",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/manager",
+    "url_audion_1": "/media/english/us_pron/m/man/manag/manager__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manag/manager__gb_1.mp3"
+  },
+  {
+    "english": "mandate",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mandate_1",
+    "url_audion_1": "/media/english/us_pron/m/man/manda/mandate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manda/mandate__gb_1.mp3"
+  },
+  {
+    "english": "mandatory",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/mandatory",
+    "url_audion_1": "/media/english/us_pron/m/man/manda/mandatory__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manda/mandatory__gb_1.mp3"
+  },
+  {
+    "english": "manifest",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/manifest_1",
+    "url_audion_1": "/media/english/us_pron/m/man/manif/manifest__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manif/manifest__gb_1.mp3"
+  },
+  {
+    "english": "manipulate",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/manipulate",
+    "url_audion_1": "/media/english/us_pron/m/man/manip/manipulate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manip/manipulate__gb_1.mp3"
+  },
+  {
+    "english": "manipulation",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/manipulation",
+    "url_audion_1": "/media/english/us_pron/m/man/manip/manipulation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manip/manipulation__gb_1.mp3"
+  },
+  {
+    "english": "manner",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/manner",
+    "url_audion_1": "/media/english/us_pron/m/man/manne/manner__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manne/manner__gb_1.mp3"
+  },
+  {
+    "english": "manufacture",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/manufacture_1",
+    "url_audion_1": "/media/english/us_pron/m/man/manuf/manufacture__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manuf/manufacture__gb_3.mp3"
+  },
+  {
+    "english": "manufacturing",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/manufacturing",
+    "url_audion_1": "/media/english/us_pron/m/man/manuf/manufacturing__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manuf/manufacturing__gb_1.mp3"
+  },
+  {
+    "english": "manuscript",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/manuscript",
+    "url_audion_1": "/media/english/us_pron/m/man/manus/manuscript__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/manus/manuscript__gb_1.mp3"
+  },
+  {
+    "english": "many",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/many",
+    "url_audion_1": "/media/english/us_pron/m/man/many_/many__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/many_/many__gb_1.mp3"
+  },
+  {
+    "english": "many",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/many",
+    "url_audion_1": "/media/english/us_pron/m/man/many_/many__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/man/many_/many__gb_1.mp3"
+  },
+  {
+    "english": "map",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/map_1",
+    "url_audion_1": "/media/english/us_pron/m/map/map__/map__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/map/map__/map__gb_1.mp3"
+  },
+  {
+    "english": "map",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/map_2",
+    "url_audion_1": "/media/english/us_pron/m/map/map__/map__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/map/map__/map__gb_1.mp3"
+  },
+  {
+    "english": "marathon",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/marathon_2",
+    "url_audion_1": "/media/english/us_pron/m/mar/marat/marathon__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marat/marathon__gb_1.mp3"
+  },
+  {
+    "english": "march",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/march_3",
+    "url_audion_1": "/media/english/us_pron/m/mar/march/march__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/march/march__gb_2.mp3"
+  },
+  {
+    "english": "march",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/march_2",
+    "url_audion_1": "/media/english/us_pron/m/mar/march/march__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/march/march__gb_2.mp3"
+  },
+  {
+    "english": "march",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/march_1",
+    "url_audion_1": "/media/english/us_pron/m/mar/march/march__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/march/march__gb_2.mp3"
+  },
+  {
+    "english": "margin",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/margin",
+    "url_audion_1": "/media/english/us_pron/m/mar/margi/margin__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/margi/margin__gb_1.mp3"
+  },
+  {
+    "english": "marginal",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/marginal_1",
+    "url_audion_1": "/media/english/us_pron/m/mar/margi/marginal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/margi/marginal__gb_1.mp3"
+  },
+  {
+    "english": "marine",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/marine_1",
+    "url_audion_1": "/media/english/us_pron/m/mar/marin/marine__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marin/marine__gb_1.mp3"
+  },
+  {
+    "english": "mark",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/mark_2",
+    "url_audion_1": "/media/english/us_pron/m/mar/mark_/mark__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/mark_/mark__gb_1.mp3"
+  },
+  {
+    "english": "mark",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/mark_1",
+    "url_audion_1": "/media/english/us_pron/m/mar/mark_/mark__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/mark_/mark__gb_1.mp3"
+  },
+  {
+    "english": "marker",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/marker",
+    "url_audion_1": "/media/english/us_pron/m/mar/marke/marker__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marke/marker__gb_1.mp3"
+  },
+  {
+    "english": "market",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/market_1",
+    "url_audion_1": "/media/english/us_pron/m/mar/marke/market__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marke/market__gb_3.mp3"
+  },
+  {
+    "english": "market",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/market_2",
+    "url_audion_1": "/media/english/us_pron/m/mar/marke/market__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marke/market__gb_3.mp3"
+  },
+  {
+    "english": "marketing",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/marketing",
+    "url_audion_1": "/media/english/us_pron/m/mar/marke/marketing__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marke/marketing__gb_1.mp3"
+  },
+  {
+    "english": "marketplace",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/marketplace",
+    "url_audion_1": "/media/english/us_pron/m/mar/marke/marketplace__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marke/marketplace__gb_1.mp3"
+  },
+  {
+    "english": "marriage",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/marriage",
+    "url_audion_1": "/media/english/us_pron/m/mar/marri/marriage__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marri/marriage__gb_1.mp3"
+  },
+  {
+    "english": "married",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/married",
+    "url_audion_1": "/media/english/us_pron/m/mar/marri/married__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marri/married__gb_1.mp3"
+  },
+  {
+    "english": "marry",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/marry",
+    "url_audion_1": "/media/english/us_pron/m/mar/marry/marry__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marry/marry__gb_1.mp3"
+  },
+  {
+    "english": "martial",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/martial",
+    "url_audion_1": "/media/english/us_pron/m/mar/marti/martial__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mar/marti/martial__gb_1.mp3"
+  },
+  {
+    "english": "mask",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mask_1",
+    "url_audion_1": "/media/english/us_pron/m/mas/mask_/mask__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mas/mask_/mask__gb_1.mp3"
+  },
+  {
+    "english": "mass",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/mass_2",
+    "url_audion_1": "/media/english/us_pron/m/mas/mass_/mass__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mas/mass_/mass__gb_2.mp3"
+  },
+  {
+    "english": "mass",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mass_1",
+    "url_audion_1": "/media/english/us_pron/m/mas/mass_/mass__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mas/mass_/mass__gb_2.mp3"
+  },
+  {
+    "english": "massacre",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/massacre_1",
+    "url_audion_1": "/media/english/us_pron/m/mas/massa/massacre__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mas/massa/massacre__gb_1.mp3"
+  },
+  {
+    "english": "massive",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/massive",
+    "url_audion_1": "/media/english/us_pron/m/mas/massi/massive__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mas/massi/massive__gb_1.mp3"
+  },
+  {
+    "english": "master",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/master_1",
+    "url_audion_1": "/media/english/us_pron/m/mas/maste/master__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mas/maste/master__gb_1.mp3"
+  },
+  {
+    "english": "master",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/master_2",
+    "url_audion_1": "/media/english/us_pron/m/mas/maste/master__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mas/maste/master__gb_1.mp3"
+  },
+  {
+    "english": "match",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/match_1",
+    "url_audion_1": "/media/english/us_pron/m/mat/match/match__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/match/match__gb_1.mp3"
+  },
+  {
+    "english": "match",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/match_2",
+    "url_audion_1": "/media/english/us_pron/m/mat/match/match__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/match/match__gb_1.mp3"
+  },
+  {
+    "english": "matching",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/matching",
+    "url_audion_1": "/media/english/us_pron/m/mat/match/matching__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/match/matching__gb_1.mp3"
+  },
+  {
+    "english": "mate",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mate_1",
+    "url_audion_1": "/media/english/us_pron/m/mat/mate_/mate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/mate_/mate__gb_1.mp3"
+  },
+  {
+    "english": "mate",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/mate_2",
+    "url_audion_1": "/media/english/us_pron/m/mat/mate_/mate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/mate_/mate__gb_1.mp3"
+  },
+  {
+    "english": "material",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/material_2",
+    "url_audion_1": "/media/english/us_pron/m/mat/mater/material__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/mater/material__gb_2.mp3"
+  },
+  {
+    "english": "material",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/material_1",
+    "url_audion_1": "/media/english/us_pron/m/mat/mater/material__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/mater/material__gb_2.mp3"
+  },
+  {
+    "english": "mathematical",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/mathematical",
+    "url_audion_1": "/media/english/us_pron/m/mat/mathe/mathematical__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/mathe/mathematical__gb_1.mp3"
+  },
+  {
+    "english": "mathematics",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/mathematics",
+    "url_audion_1": "/media/english/us_pron/m/mat/mathe/mathematics__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/mathe/mathematics__gb_1.mp3"
+  },
+  {
+    "english": "maths",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/maths",
+    "url_audion_1": "/media/english/us_pron/m/mat/maths/maths__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/maths/maths__gb_3.mp3"
+  },
+  {
+    "english": "matter",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/matter_1",
+    "url_audion_1": "/media/english/us_pron/m/mat/matte/matter__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/matte/matter__gb_1.mp3"
+  },
+  {
+    "english": "matter",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/matter_2",
+    "url_audion_1": "/media/english/us_pron/m/mat/matte/matter__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/matte/matter__gb_1.mp3"
+  },
+  {
+    "english": "mature",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/mature_1",
+    "url_audion_1": "/media/english/us_pron/m/mat/matur/mature__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/matur/mature__gb_1.mp3"
+  },
+  {
+    "english": "mature",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/mature_2",
+    "url_audion_1": "/media/english/us_pron/m/mat/matur/mature__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mat/matur/mature__gb_1.mp3"
+  },
+  {
+    "english": "maximize",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/maximize",
+    "url_audion_1": "/media/english/us_pron/m/max/maxim/maximize__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/max/maxim/maximize__gb_1.mp3"
+  },
+  {
+    "english": "maximum",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/maximum_2",
+    "url_audion_1": "/media/english/us_pron/m/max/maxim/maximum__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/max/maxim/maximum__gb_2.mp3"
+  },
+  {
+    "english": "maximum",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/maximum_3",
+    "url_audion_1": "/media/english/us_pron/m/max/maxim/maximum__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/max/maxim/maximum__gb_2.mp3"
+  },
+  {
+    "english": "may",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/may_3",
+    "url_audion_1": "/media/english/us_pron/m/may/may__/may__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/may/may_1/may_1_gb_1.mp3"
+  },
+  {
+    "english": "may",
+    "type": "modal verb",
+    "level": "a2",
+    "url_definition": "/definition/english/may_1",
+    "url_audion_1": "/media/english/us_pron/m/may/may__/may__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/may/may_1/may_1_gb_1.mp3"
+  },
+  {
+    "english": "maybe",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/maybe_1",
+    "url_audion_1": "/media/english/us_pron/m/may/maybe/maybe__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/may/maybe/maybe__gb_1.mp3"
+  },
+  {
+    "english": "mayor",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mayor",
+    "url_audion_1": "/media/english/us_pron/m/may/mayor/mayor__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/may/mayor/mayor__gb_1.mp3"
+  },
+  {
+    "english": "me",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/me_1",
+    "url_audion_1": "/media/english/us_pron/m/me_/me__u/me__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/me_/me__g/me__gb_3.mp3"
+  },
+  {
+    "english": "meal",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/meal",
+    "url_audion_1": "/media/english/us_pron/m/mea/meal_/meal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/meal_/meal__gb_1.mp3"
+  },
+  {
+    "english": "mean",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/mean_1",
+    "url_audion_1": "/media/english/us_pron/m/mea/mean_/mean__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/mean_/mean__gb_2.mp3"
+  },
+  {
+    "english": "meaning",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/meaning_1",
+    "url_audion_1": "/media/english/us_pron/m/mea/meani/meaning__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/meani/meaning__gb_1.mp3"
+  },
+  {
+    "english": "meaningful",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/meaningful",
+    "url_audion_1": "/media/english/us_pron/m/mea/meani/meaningful__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/meani/meaningful__gb_1.mp3"
+  },
+  {
+    "english": "means",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/means",
+    "url_audion_1": "/media/english/us_pron/m/mea/means/means__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/means/means__gb_1.mp3"
+  },
+  {
+    "english": "meantime",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/meantime_1",
+    "url_audion_1": "/media/english/us_pron/m/mea/meant/meantime__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/meant/meantime__gb_1.mp3"
+  },
+  {
+    "english": "meanwhile",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/meanwhile_1",
+    "url_audion_1": "/media/english/us_pron/m/mea/meanw/meanwhile__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/meanw/meanwhile__gb_1.mp3"
+  },
+  {
+    "english": "measure",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/measure_2",
+    "url_audion_1": "/media/english/us_pron/m/mea/measu/measure__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/measu/measure__gb_3.mp3"
+  },
+  {
+    "english": "measure",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/measure_1",
+    "url_audion_1": "/media/english/us_pron/m/mea/measu/measure__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/measu/measure__gb_3.mp3"
+  },
+  {
+    "english": "measurement",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/measurement",
+    "url_audion_1": "/media/english/us_pron/m/mea/measu/measurement__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/measu/measurement__gb_2.mp3"
+  },
+  {
+    "english": "meat",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/meat",
+    "url_audion_1": "/media/english/us_pron/m/mea/meat_/meat__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mea/meat_/meat__gb_1.mp3"
+  },
+  {
+    "english": "mechanic",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mechanic",
+    "url_audion_1": "/media/english/us_pron/m/mec/mecha/mechanic__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mec/mecha/mechanic__gb_1.mp3"
+  },
+  {
+    "english": "mechanical",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/mechanical",
+    "url_audion_1": "/media/english/us_pron/m/mec/mecha/mechanical__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mec/mecha/mechanical__gb_3.mp3"
+  },
+  {
+    "english": "mechanism",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mechanism",
+    "url_audion_1": "/media/english/us_pron/m/mec/mecha/mechanism__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mec/mecha/mechanism__gb_1.mp3"
+  },
+  {
+    "english": "medal",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/medal_1",
+    "url_audion_1": "/media/english/us_pron/m/med/medal/medal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/medal/medal__gb_1.mp3"
+  },
+  {
+    "english": "media",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/media",
+    "url_audion_1": "/media/english/us_pron/m/med/media/media__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/media/media__gb_3.mp3"
+  },
+  {
+    "english": "medical",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/medical_1",
+    "url_audion_1": "/media/english/us_pron/m/med/medic/medical__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/medic/medical__gb_2.mp3"
+  },
+  {
+    "english": "medication",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/medication",
+    "url_audion_1": "/media/english/us_pron/m/med/medic/medication__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/medic/medication__gb_1.mp3"
+  },
+  {
+    "english": "medicine",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/medicine",
+    "url_audion_1": "/media/english/us_pron/m/med/medic/medicine__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/medic/medicine__gb_5.mp3"
+  },
+  {
+    "english": "medieval",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/medieval",
+    "url_audion_1": "/media/english/us_pron/m/med/medie/medieval__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/medie/medieval__gb_1.mp3"
+  },
+  {
+    "english": "meditation",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/meditation",
+    "url_audion_1": "/media/english/us_pron/m/med/medit/meditation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/medit/meditation__gb_1.mp3"
+  },
+  {
+    "english": "medium",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/medium_1",
+    "url_audion_1": "/media/english/us_pron/m/med/mediu/medium__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/mediu/medium__gb_2.mp3"
+  },
+  {
+    "english": "medium",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/medium_2",
+    "url_audion_1": "/media/english/us_pron/m/med/mediu/medium__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/med/mediu/medium__gb_2.mp3"
+  },
+  {
+    "english": "meet",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/meet_1",
+    "url_audion_1": "/media/english/us_pron/m/mee/meet_/meet__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mee/meet_/meet__gb_1.mp3"
+  },
+  {
+    "english": "meeting",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/meeting",
+    "url_audion_1": "/media/english/us_pron/m/mee/meeti/meeting__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mee/meeti/meeting__gb_1.mp3"
+  },
+  {
+    "english": "melody",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/melody",
+    "url_audion_1": "/media/english/us_pron/m/mel/melod/melody__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mel/melod/melody__gb_1.mp3"
+  },
+  {
+    "english": "melt",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/melt",
+    "url_audion_1": "/media/english/us_pron/m/mel/melt_/melt__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mel/melt_/melt__gb_1.mp3"
+  },
+  {
+    "english": "member",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/member",
+    "url_audion_1": "/media/english/us_pron/m/mem/membe/member__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mem/membe/member__gb_1.mp3"
+  },
+  {
+    "english": "membership",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/membership",
+    "url_audion_1": "/media/english/us_pron/m/mem/membe/membership__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mem/membe/membership__gb_1.mp3"
+  },
+  {
+    "english": "memo",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/memo",
+    "url_audion_1": "/media/english/us_pron/m/mem/memo_/memo__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mem/memo_/memo__gb_1.mp3"
+  },
+  {
+    "english": "memoir",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/memoir",
+    "url_audion_1": "/media/english/us_pron/m/mem/memoi/memoir__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mem/memoi/memoir__gb_1.mp3"
+  },
+  {
+    "english": "memorable",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/memorable",
+    "url_audion_1": "/media/english/us_pron/m/mem/memor/memorable__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mem/memor/memorable__gb_1.mp3"
+  },
+  {
+    "english": "memorial",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/memorial_1",
+    "url_audion_1": "/media/english/us_pron/m/mem/memor/memorial__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mem/memor/memorial__gb_1.mp3"
+  },
+  {
+    "english": "memory",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/memory",
+    "url_audion_1": "/media/english/us_pron/m/mem/memor/memory__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mem/memor/memory__gb_1.mp3"
+  },
+  {
+    "english": "mental",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/mental_1",
+    "url_audion_1": "/media/english/us_pron/m/men/menta/mental__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/men/menta/mental__gb_2.mp3"
+  },
+  {
+    "english": "mention",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mention_2",
+    "url_audion_1": "/media/english/us_pron/m/men/menti/mention__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/men/menti/mention__gb_1.mp3"
+  },
+  {
+    "english": "mention",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/mention_1",
+    "url_audion_1": "/media/english/us_pron/m/men/menti/mention__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/men/menti/mention__gb_1.mp3"
+  },
+  {
+    "english": "mentor",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mentor",
+    "url_audion_1": "/media/english/us_pron/m/men/mento/mentor__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/men/mento/mentor__gb_1.mp3"
+  },
+  {
+    "english": "menu",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/menu",
+    "url_audion_1": "/media/english/us_pron/m/men/menu_/menu__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/men/menu_/menu__gb_1.mp3"
+  },
+  {
+    "english": "merchant",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/merchant_1",
+    "url_audion_1": "/media/english/us_pron/m/mer/merch/merchant__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mer/merch/merchant__gb_1.mp3"
+  },
+  {
+    "english": "mercy",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mercy",
+    "url_audion_1": "/media/english/us_pron/m/mer/mercy/mercy__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mer/mercy/mercy__gb_1.mp3"
+  },
+  {
+    "english": "mere",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/mere_1",
+    "url_audion_1": "/media/english/us_pron/m/mer/mere_/mere__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mer/mere_/mere__gb_1.mp3"
+  },
+  {
+    "english": "merely",
+    "type": "adverb",
+    "level": "c1",
+    "url_definition": "/definition/english/merely",
+    "url_audion_1": "/media/english/us_pron/m/mer/merel/merely__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mer/merel/merely__gb_1.mp3"
+  },
+  {
+    "english": "merge",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/merge",
+    "url_audion_1": "/media/english/us_pron/m/mer/merge/merge__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mer/merge/merge__gb_1.mp3"
+  },
+  {
+    "english": "merger",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/merger",
+    "url_audion_1": "/media/english/us_pron/m/mer/merge/merger__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mer/merge/merger__gb_1.mp3"
+  },
+  {
+    "english": "merit",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/merit_1",
+    "url_audion_1": "/media/english/us_pron/m/mer/merit/merit__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mer/merit/merit__gb_1.mp3"
+  },
+  {
+    "english": "mess",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mess_1",
+    "url_audion_1": "/media/english/us_pron/m/mes/mess_/mess__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mes/mess_/mess__gb_1.mp3"
+  },
+  {
+    "english": "message",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/message_1",
+    "url_audion_1": "/media/english/us_pron/m/mes/messa/message__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mes/messa/message__gb_1.mp3"
+  },
+  {
+    "english": "metal",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/metal",
+    "url_audion_1": "/media/english/us_pron/m/met/metal/metal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/met/metal/metal__gb_1.mp3"
+  },
+  {
+    "english": "metaphor",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/metaphor",
+    "url_audion_1": "/media/english/us_pron/m/met/metap/metaphor__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/met/metap/metaphor__gb_1.mp3"
+  },
+  {
+    "english": "method",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/method",
+    "url_audion_1": "/media/english/us_pron/m/met/metho/method__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/met/metho/method__gb_2.mp3"
+  },
+  {
+    "english": "methodology",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/methodology",
+    "url_audion_1": "/media/english/us_pron/m/met/metho/methodology__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/met/metho/methodology__gb_2.mp3"
+  },
+  {
+    "english": "metre",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/metre",
+    "url_audion_1": "/media/english/us_pron/m/met/metre/metre__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/met/metre/metre__gb_1.mp3"
+  },
+  {
+    "english": "middle",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/middle_2",
+    "url_audion_1": "/media/english/us_pron/m/mid/middl/middle__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mid/middl/middle__gb_1.mp3"
+  },
+  {
+    "english": "middle",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/middle_1",
+    "url_audion_1": "/media/english/us_pron/m/mid/middl/middle__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mid/middl/middle__gb_1.mp3"
+  },
+  {
+    "english": "midnight",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/midnight",
+    "url_audion_1": "/media/english/us_pron/m/mid/midni/midnight__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mid/midni/midnight__gb_2.mp3"
+  },
+  {
+    "english": "midst",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/midst",
+    "url_audion_1": "/media/english/us_pron/m/mid/midst/midst__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mid/midst/midst__gb_1.mp3"
+  },
+  {
+    "english": "might",
+    "type": "modal verb",
+    "level": "a2",
+    "url_definition": "/definition/english/might_1",
+    "url_audion_1": "/media/english/us_pron/m/mig/might/might__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mig/might/might__gb_2.mp3"
+  },
+  {
+    "english": "migration",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/migration",
+    "url_audion_1": "/media/english/us_pron/m/mig/migra/migration__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mig/migra/migration__gb_2.mp3"
+  },
+  {
+    "english": "mild",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/mild_1",
+    "url_audion_1": "/media/english/us_pron/m/mil/mild_/mild__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/mild_/mild__gb_1.mp3"
+  },
+  {
+    "english": "mile",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/mile",
+    "url_audion_1": "/media/english/us_pron/m/mil/mile_/mile__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/mile_/mile__gb_1.mp3"
+  },
+  {
+    "english": "militant",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/militant_2",
+    "url_audion_1": "/media/english/us_pron/m/mil/milit/militant__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/milit/militant__gb_1.mp3"
+  },
+  {
+    "english": "militant",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/militant_1",
+    "url_audion_1": "/media/english/us_pron/m/mil/milit/militant__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/milit/militant__gb_1.mp3"
+  },
+  {
+    "english": "military",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/military_1",
+    "url_audion_1": "/media/english/us_pron/m/mil/milit/military__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/milit/military__gb_1.mp3"
+  },
+  {
+    "english": "military",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/military_2",
+    "url_audion_1": "/media/english/us_pron/m/mil/milit/military__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/milit/military__gb_1.mp3"
+  },
+  {
+    "english": "militia",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/militia",
+    "url_audion_1": "/media/english/us_pron/m/mil/milit/militia__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/milit/militia__gb_1.mp3"
+  },
+  {
+    "english": "milk",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/milk_1",
+    "url_audion_1": "/media/english/us_pron/m/mil/milk_/milk__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/milk_/milk__gb_1.mp3"
+  },
+  {
+    "english": "mill",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mill_1",
+    "url_audion_1": "/media/english/us_pron/m/mil/mill_/mill__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/mill_/mill__gb_1.mp3"
+  },
+  {
+    "english": "million",
+    "type": "number",
+    "level": "a1",
+    "url_definition": "/definition/english/million",
+    "url_audion_1": "/media/english/us_pron/m/mil/milli/million__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mil/milli/million__gb_1.mp3"
+  },
+  {
+    "english": "mind",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/mind_1",
+    "url_audion_1": "/media/english/us_pron/m/min/mind_/mind__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/mind_/mind__gb_1.mp3"
+  },
+  {
+    "english": "mind",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/mind_2",
+    "url_audion_1": "/media/english/us_pron/m/min/mind_/mind__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/mind_/mind__gb_1.mp3"
+  },
+  {
+    "english": "mine",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mine_2",
+    "url_audion_1": "/media/english/us_pron/m/min/mine_/mine__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/mine_/mine__gb_1.mp3"
+  },
+  {
+    "english": "mine",
+    "type": "pronoun",
+    "level": "a2",
+    "url_definition": "/definition/english/mine_1",
+    "url_audion_1": "/media/english/us_pron/m/min/mine_/mine__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/mine_/mine__gb_1.mp3"
+  },
+  {
+    "english": "miner",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/miner",
+    "url_audion_1": "/media/english/us_pron/m/min/miner/miner__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/miner/miner__gb_1.mp3"
+  },
+  {
+    "english": "mineral",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mineral",
+    "url_audion_1": "/media/english/us_pron/m/min/miner/mineral__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/miner/mineral__gb_1.mp3"
+  },
+  {
+    "english": "minimal",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/minimal",
+    "url_audion_1": "/media/english/us_pron/m/min/minim/minimal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minim/minimal__gb_2.mp3"
+  },
+  {
+    "english": "minimize",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/minimize",
+    "url_audion_1": "/media/english/us_pron/m/min/minim/minimize__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minim/minimize__gb_2.mp3"
+  },
+  {
+    "english": "minimum",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/minimum_2",
+    "url_audion_1": "/media/english/us_pron/m/min/minim/minimum__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minim/minimum__gb_2.mp3"
+  },
+  {
+    "english": "minimum",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/minimum_3",
+    "url_audion_1": "/media/english/us_pron/m/min/minim/minimum__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minim/minimum__gb_2.mp3"
+  },
+  {
+    "english": "mining",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mining",
+    "url_audion_1": "/media/english/us_pron/m/min/minin/mining__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minin/mining__gb_1.mp3"
+  },
+  {
+    "english": "minister",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/minister_1",
+    "url_audion_1": "/media/english/us_pron/m/min/minis/minister__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minis/minister__gb_1.mp3"
+  },
+  {
+    "english": "ministry",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/ministry",
+    "url_audion_1": "/media/english/us_pron/m/min/minis/ministry__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minis/ministry__gb_2.mp3"
+  },
+  {
+    "english": "minor",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/minor_1",
+    "url_audion_1": "/media/english/us_pron/m/min/minor/minor__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minor/minor__gb_1.mp3"
+  },
+  {
+    "english": "minority",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/minority",
+    "url_audion_1": "/media/english/us_pron/m/min/minor/minority__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minor/minority__gb_3.mp3"
+  },
+  {
+    "english": "minute",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/minute2",
+    "url_audion_1": "/media/english/us_pron/m/min/minut/minute__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minut/minute__gb_2.mp3"
+  },
+  {
+    "english": "minute",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/minute1_1",
+    "url_audion_1": "/media/english/us_pron/m/min/minut/minute__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/min/minut/minute__gb_1.mp3"
+  },
+  {
+    "english": "miracle",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/miracle",
+    "url_audion_1": "/media/english/us_pron/m/mir/mirac/miracle__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mir/mirac/miracle__gb_1.mp3"
+  },
+  {
+    "english": "mirror",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/mirror_1",
+    "url_audion_1": "/media/english/us_pron/m/mir/mirro/mirror__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mir/mirro/mirror__gb_3.mp3"
+  },
+  {
+    "english": "miserable",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/miserable",
+    "url_audion_1": "/media/english/us_pron/m/mis/miser/miserable__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/miser/miserable__gb_1.mp3"
+  },
+  {
+    "english": "misery",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/misery",
+    "url_audion_1": "/media/english/us_pron/m/mis/miser/misery__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/miser/misery__gb_1.mp3"
+  },
+  {
+    "english": "misleading",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/misleading",
+    "url_audion_1": "/media/english/us_pron/m/mis/misle/misleading__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/misle/misleading__gb_3.mp3"
+  },
+  {
+    "english": "miss",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/miss_1",
+    "url_audion_1": "/media/english/us_pron/m/mis/miss_/miss__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/miss_/miss__gb_1.mp3"
+  },
+  {
+    "english": "missile",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/missile",
+    "url_audion_1": "/media/english/us_pron/m/mis/missi/missile__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/missi/missile__gb_1.mp3"
+  },
+  {
+    "english": "missing",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/missing",
+    "url_audion_1": "/media/english/us_pron/m/mis/missi/missing__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/missi/missing__gb_1.mp3"
+  },
+  {
+    "english": "mission",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/impossible",
+    "url_audion_1": "/media/english/us_pron/m/mis/missi/mission__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/missi/mission__gb_1.mp3"
+  },
+  {
+    "english": "mistake",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/mistake_1",
+    "url_audion_1": "/media/english/us_pron/m/mis/mista/mistake__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/mista/mistake__gb_2.mp3"
+  },
+  {
+    "english": "mistake",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/mistake_2",
+    "url_audion_1": "/media/english/us_pron/m/mis/mista/mistake__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mis/mista/mistake__gb_2.mp3"
+  },
+  {
+    "english": "mix",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mix_2",
+    "url_audion_1": "/media/english/us_pron/m/mix/mix__/mix__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mix/mix__/mix__gb_1.mp3"
+  },
+  {
+    "english": "mix",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/mix_1",
+    "url_audion_1": "/media/english/us_pron/m/mix/mix__/mix__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mix/mix__/mix__gb_1.mp3"
+  },
+  {
+    "english": "mixed",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/mixed",
+    "url_audion_1": "/media/english/us_pron/m/mix/mixed/mixed__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mix/mixed/mixed__gb_1.mp3"
+  },
+  {
+    "english": "mixture",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mixture",
+    "url_audion_1": "/media/english/us_pron/m/mix/mixtu/mixture__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mix/mixtu/mixture__gb_1.mp3"
+  },
+  {
+    "english": "mob",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mob_1",
+    "url_audion_1": "/media/english/us_pron/m/mob/mob__/mob__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mob/mob__/mob__gb_1.mp3"
+  },
+  {
+    "english": "mobile",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/mobile_1",
+    "url_audion_1": "/media/english/us_pron/m/mob/mobil/mobile__us_7.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mob/mobil/mobile__gb_1.mp3"
+  },
+  {
+    "english": "mobile",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/mobile_2",
+    "url_audion_1": "/media/english/us_pron/m/mob/mobil/mobile__us_7.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mob/mobil/mobile__gb_1.mp3"
+  },
+  {
+    "english": "mobility",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/mobility",
+    "url_audion_1": "/media/english/us_pron/m/mob/mobil/mobility__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mob/mobil/mobility__gb_1.mp3"
+  },
+  {
+    "english": "mobilize",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/mobilize",
+    "url_audion_1": "/media/english/us_pron/m/mob/mobil/mobilize__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mob/mobil/mobilize__gb_1.mp3"
+  },
+  {
+    "english": "mode",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mode",
+    "url_audion_1": "/media/english/us_pron/m/mod/mode_/mode__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/mode_/mode__gb_1.mp3"
+  },
+  {
+    "english": "model",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/model_1",
+    "url_audion_1": "/media/english/us_pron/m/mod/model/model__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/model/model__gb_2.mp3"
+  },
+  {
+    "english": "model",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/model_2",
+    "url_audion_1": "/media/english/us_pron/m/mod/model/model__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/model/model__gb_2.mp3"
+  },
+  {
+    "english": "moderate",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/moderate_1",
+    "url_audion_1": "/media/english/us_pron/m/mod/moder/moderate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/moder/moderate__gb_4.mp3"
+  },
+  {
+    "english": "modern",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/modern",
+    "url_audion_1": "/media/english/us_pron/m/mod/moder/modern__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/moder/modern__gb_2.mp3"
+  },
+  {
+    "english": "modest",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/modest",
+    "url_audion_1": "/media/english/us_pron/m/mod/modes/modest__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/modes/modest__gb_1.mp3"
+  },
+  {
+    "english": "modification",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/modification",
+    "url_audion_1": "/media/english/us_pron/m/mod/modif/modification__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/modif/modification__gb_2.mp3"
+  },
+  {
+    "english": "modify",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/modify",
+    "url_audion_1": "/media/english/us_pron/m/mod/modif/modify__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mod/modif/modify__gb_1.mp3"
+  },
+  {
+    "english": "moment",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/moment",
+    "url_audion_1": "/media/english/us_pron/m/mom/momen/moment__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mom/momen/moment__gb_1.mp3"
+  },
+  {
+    "english": "momentum",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/momentum",
+    "url_audion_1": "/media/english/us_pron/m/mom/momen/momentum__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mom/momen/momentum__gb_1.mp3"
+  },
+  {
+    "english": "monday",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/monday",
+    "url_audion_1": "/media/english/us_pron/m/mon/monda/monday__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monda/monday__gb_1.mp3"
+  },
+  {
+    "english": "money",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/money",
+    "url_audion_1": "/media/english/us_pron/m/mon/money/money__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/money/money__gb_1.mp3"
+  },
+  {
+    "english": "monitor",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/monitor_1",
+    "url_audion_1": "/media/english/us_pron/m/mon/monit/monitor__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monit/monitor__gb_3.mp3"
+  },
+  {
+    "english": "monitor",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/monitor_2",
+    "url_audion_1": "/media/english/us_pron/m/mon/monit/monitor__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monit/monitor__gb_3.mp3"
+  },
+  {
+    "english": "monk",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/monk",
+    "url_audion_1": "/media/english/us_pron/m/mon/monk_/monk__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monk_/monk__gb_1.mp3"
+  },
+  {
+    "english": "monkey",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/monkey_1",
+    "url_audion_1": "/media/english/us_pron/m/mon/monke/monkey__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monke/monkey__gb_2.mp3"
+  },
+  {
+    "english": "monopoly",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/monopoly",
+    "url_audion_1": "/media/english/us_pron/m/mon/monop/monopoly__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monop/monopoly__gb_1.mp3"
+  },
+  {
+    "english": "monster",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/monster_1",
+    "url_audion_1": "/media/english/us_pron/m/mon/monst/monster__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monst/monster__gb_2.mp3"
+  },
+  {
+    "english": "month",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/month",
+    "url_audion_1": "/media/english/us_pron/m/mon/month/month__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/month/month__gb_1.mp3"
+  },
+  {
+    "english": "monthly",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/monthly_1",
+    "url_audion_1": "/media/english/us_pron/m/mon/month/monthly__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/month/monthly__gb_1.mp3"
+  },
+  {
+    "english": "monument",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/monument",
+    "url_audion_1": "/media/english/us_pron/m/mon/monum/monument__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mon/monum/monument__gb_1.mp3"
+  },
+  {
+    "english": "mood",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mood",
+    "url_audion_1": "/media/english/us_pron/m/moo/mood_/mood__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/moo/mood_/mood__gb_1.mp3"
+  },
+  {
+    "english": "moon",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/moon_1",
+    "url_audion_1": "/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/moo/moon_/moon_1_gb_2.mp3"
+  },
+  {
+    "english": "moral",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/moral_1",
+    "url_audion_1": "/media/english/us_pron/m/mor/moral/moral__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/moral/moral__gb_1.mp3"
+  },
+  {
+    "english": "moral",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/moral_2",
+    "url_audion_1": "/media/english/us_pron/m/mor/moral/moral__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/moral/moral__gb_1.mp3"
+  },
+  {
+    "english": "morality",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/morality",
+    "url_audion_1": "/media/english/us_pron/m/mor/moral/morality__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/moral/morality__gb_1.mp3"
+  },
+  {
+    "english": "more",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/more_2",
+    "url_audion_1": "/media/english/us_pron/m/mor/more_/more__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/more_/more__gb_1.mp3"
+  },
+  {
+    "english": "more",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/more_1",
+    "url_audion_1": "/media/english/us_pron/m/mor/more_/more__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/more_/more__gb_1.mp3"
+  },
+  {
+    "english": "more",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/many",
+    "url_audion_1": "/media/english/us_pron/m/mor/more_/more__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/more_/more__gb_1.mp3"
+  },
+  {
+    "english": "moreover",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/moreover",
+    "url_audion_1": "/media/english/us_pron/m/mor/moreo/moreover__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/moreo/moreover__gb_1.mp3"
+  },
+  {
+    "english": "morning",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/morning_1",
+    "url_audion_1": "/media/english/us_pron/m/mor/morni/morning__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/morni/morning__gb_1.mp3"
+  },
+  {
+    "english": "mortgage",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mortgage_1",
+    "url_audion_1": "/media/english/us_pron/m/mor/mortg/mortgage__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mor/mortg/mortgage__gb_2.mp3"
+  },
+  {
+    "english": "mosque",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/mosque",
+    "url_audion_1": "/media/english/us_pron/m/mos/mosqu/mosque__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mos/mosqu/mosque__gb_1.mp3"
+  },
+  {
+    "english": "most",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/most_3",
+    "url_audion_1": "/media/english/us_pron/m/mos/most_/most__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mos/most_/most__gb_1.mp3"
+  },
+  {
+    "english": "most",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/most_1",
+    "url_audion_1": "/media/english/us_pron/m/mos/most_/most__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mos/most_/most__gb_1.mp3"
+  },
+  {
+    "english": "most",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/many",
+    "url_audion_1": "/media/english/us_pron/m/mos/most_/most__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mos/most_/most__gb_1.mp3"
+  },
+  {
+    "english": "mostly",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/mostly",
+    "url_audion_1": "/media/english/us_pron/m/mos/mostl/mostly__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mos/mostl/mostly__gb_1.mp3"
+  },
+  {
+    "english": "mother",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/mother_1",
+    "url_audion_1": "/media/english/us_pron/m/mot/mothe/mother__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/mothe/mother__gb_2.mp3"
+  },
+  {
+    "english": "motion",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/motion_1",
+    "url_audion_1": "/media/english/us_pron/m/mot/motio/motion__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motio/motion__gb_1.mp3"
+  },
+  {
+    "english": "motivate",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/motivate",
+    "url_audion_1": "/media/english/us_pron/m/mot/motiv/motivate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motiv/motivate__gb_1.mp3"
+  },
+  {
+    "english": "motivation",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/motivation",
+    "url_audion_1": "/media/english/us_pron/m/mot/motiv/motivation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motiv/motivation__gb_3.mp3"
+  },
+  {
+    "english": "motive",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/motive_1",
+    "url_audion_1": "/media/english/us_pron/m/mot/motiv/motive__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motiv/motive__gb_1.mp3"
+  },
+  {
+    "english": "motor",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/motor_2",
+    "url_audion_1": "/media/english/us_pron/m/mot/motor/motor__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motor/motor__gb_1.mp3"
+  },
+  {
+    "english": "motor",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/motor_1",
+    "url_audion_1": "/media/english/us_pron/m/mot/motor/motor__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motor/motor__gb_1.mp3"
+  },
+  {
+    "english": "motorcycle",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/motorcycle",
+    "url_audion_1": "/media/english/us_pron/m/mot/motor/motorcycle__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motor/motorcycle__gb_2.mp3"
+  },
+  {
+    "english": "motorist",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/motorist",
+    "url_audion_1": "/media/english/us_pron/m/mot/motor/motorist__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mot/motor/motorist__gb_1.mp3"
+  },
+  {
+    "english": "mount",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/mount_1",
+    "url_audion_1": "/media/english/us_pron/m/mou/mount/mount__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mou/mount/mount__gb_1.mp3"
+  },
+  {
+    "english": "mountain",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/mountain",
+    "url_audion_1": "/media/english/us_pron/m/mou/mount/mountain__us_5.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mou/mount/mountain__gb_1.mp3"
+  },
+  {
+    "english": "mouse",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/mouse_1",
+    "url_audion_1": "/media/english/us_pron/m/mou/mouse/mouse__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mou/mouse/mouse__gb_3.mp3"
+  },
+  {
+    "english": "mouth",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/mouth_1",
+    "url_audion_1": "/media/english/us_pron/m/mou/mouth/mouth__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mou/mouth/mouth__gb_3.mp3"
+  },
+  {
+    "english": "move",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/move_2",
+    "url_audion_1": "/media/english/us_pron/m/mov/move_/move__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mov/move_/move__gb_1.mp3"
+  },
+  {
+    "english": "move",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/move_1",
+    "url_audion_1": "/media/english/us_pron/m/mov/move_/move__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mov/move_/move__gb_1.mp3"
+  },
+  {
+    "english": "movement",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/movement",
+    "url_audion_1": "/media/english/us_pron/m/mov/movem/movement__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mov/movem/movement__gb_1.mp3"
+  },
+  {
+    "english": "movie",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/movie",
+    "url_audion_1": "/media/english/us_pron/m/mov/movie/movie__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mov/movie/movie__gb_1.mp3"
+  },
+  {
+    "english": "moving",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/moving",
+    "url_audion_1": "/media/english/us_pron/m/mov/movin/moving__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mov/movin/moving__gb_1.mp3"
+  },
+  {
+    "english": "much",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/much_2",
+    "url_audion_1": "/media/english/us_pron/m/muc/much_/much__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/muc/much_/much__gb_1.mp3"
+  },
+  {
+    "english": "much",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/much_1",
+    "url_audion_1": "/media/english/us_pron/m/muc/much_/much__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/muc/much_/much__gb_1.mp3"
+  },
+  {
+    "english": "much",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/many",
+    "url_audion_1": "/media/english/us_pron/m/muc/much_/much__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/muc/much_/much__gb_1.mp3"
+  },
+  {
+    "english": "mud",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mud_1",
+    "url_audion_1": "/media/english/us_pron/m/mud/mud__/mud__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mud/mud__/mud__gb_2.mp3"
+  },
+  {
+    "english": "multiple",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/multiple_1",
+    "url_audion_1": "/media/english/us_pron/m/mul/multi/multiple__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mul/multi/multiple__gb_1.mp3"
+  },
+  {
+    "english": "multiply",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/multiply",
+    "url_audion_1": "/media/english/us_pron/m/mul/multi/multiply__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mul/multi/multiply__gb_4.mp3"
+  },
+  {
+    "english": "mum",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/mum_1",
+    "url_audion_1": "/media/english/us_pron/m/mum/mum__/mum__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mum/mum_1/mum_1_gb_1.mp3"
+  },
+  {
+    "english": "municipal",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/municipal",
+    "url_audion_1": "/media/english/us_pron/m/mun/munic/municipal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mun/munic/municipal__gb_1.mp3"
+  },
+  {
+    "english": "murder",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/murder_1",
+    "url_audion_1": "/media/english/us_pron/m/mur/murde/murder__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mur/murde/murder__gb_1.mp3"
+  },
+  {
+    "english": "murder",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/murder_2",
+    "url_audion_1": "/media/english/us_pron/m/mur/murde/murder__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mur/murde/murder__gb_1.mp3"
+  },
+  {
+    "english": "muscle",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/muscle_1",
+    "url_audion_1": "/media/english/us_pron/m/mus/muscl/muscle__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mus/muscl/muscle__gb_1.mp3"
+  },
+  {
+    "english": "museum",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/museum",
+    "url_audion_1": "/media/english/us_pron/m/mus/museu/museum__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mus/museu/museum__gb_1.mp3"
+  },
+  {
+    "english": "music",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/music",
+    "url_audion_1": "/media/english/us_pron/m/mus/music/music__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mus/music/music__gb_1.mp3"
+  },
+  {
+    "english": "musical",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/musical_1",
+    "url_audion_1": "/media/english/us_pron/m/mus/music/musical__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mus/music/musical__gb_1.mp3"
+  },
+  {
+    "english": "musical",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/musical_2",
+    "url_audion_1": "/media/english/us_pron/m/mus/music/musical__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mus/music/musical__gb_1.mp3"
+  },
+  {
+    "english": "musician",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/musician",
+    "url_audion_1": "/media/english/us_pron/m/mus/music/musician__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mus/music/musician__gb_1.mp3"
+  },
+  {
+    "english": "must",
+    "type": "modal verb",
+    "level": "a1",
+    "url_definition": "/definition/english/must_1",
+    "url_audion_1": "/media/english/us_pron/m/mus/must_/must__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mus/must_/must__gb_1.mp3"
+  },
+  {
+    "english": "mutual",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/mutual",
+    "url_audion_1": "/media/english/us_pron/m/mut/mutua/mutual__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mut/mutua/mutual__gb_1.mp3"
+  },
+  {
+    "english": "my",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/my",
+    "url_audion_1": "/media/english/us_pron/m/my_/my__u/my__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/my_/my__g/my__gb_1.mp3"
+  },
+  {
+    "english": "myself",
+    "type": "pronoun",
+    "level": "a2",
+    "url_definition": "/definition/english/myself",
+    "url_audion_1": "/media/english/us_pron/m/mys/mysel/myself__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mys/mysel/myself__gb_1.mp3"
+  },
+  {
+    "english": "mysterious",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/mysterious",
+    "url_audion_1": "/media/english/us_pron/m/mys/myste/mysterious__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mys/myste/mysterious__gb_1.mp3"
+  },
+  {
+    "english": "mystery",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/mystery",
+    "url_audion_1": "/media/english/us_pron/m/mys/myste/mystery__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/mys/myste/mystery__gb_1.mp3"
+  },
+  {
+    "english": "myth",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/myth",
+    "url_audion_1": "/media/english/us_pron/m/myt/myth_/myth__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/m/myt/myth_/myth__gb_1.mp3"
+  },
+  {
+    "english": "nail",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/nail_1",
+    "url_audion_1": "/media/english/us_pron/n/nai/nail_/nail__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nai/nail_/nail__gb_1.mp3"
+  },
+  {
+    "english": "naked",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/naked",
+    "url_audion_1": "/media/english/us_pron/n/nak/naked/naked__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nak/naked/naked__gb_1.mp3"
+  },
+  {
+    "english": "name",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/name_1",
+    "url_audion_1": "/media/english/us_pron/n/nam/name_/name__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nam/name_/name__gb_1.mp3"
+  },
+  {
+    "english": "name",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/name_2",
+    "url_audion_1": "/media/english/us_pron/n/nam/name_/name__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nam/name_/name__gb_1.mp3"
+  },
+  {
+    "english": "namely",
+    "type": "adverb",
+    "level": "c1",
+    "url_definition": "/definition/english/namely",
+    "url_audion_1": "/media/english/us_pron/n/nam/namel/namely__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nam/namel/namely__gb_2.mp3"
+  },
+  {
+    "english": "narrative",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/narrative_2",
+    "url_audion_1": "/media/english/us_pron/n/nar/narra/narrative__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nar/narra/narrative__gb_1.mp3"
+  },
+  {
+    "english": "narrative",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/narrative_1",
+    "url_audion_1": "/media/english/us_pron/n/nar/narra/narrative__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nar/narra/narrative__gb_1.mp3"
+  },
+  {
+    "english": "narrow",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/narrow_1",
+    "url_audion_1": "/media/english/us_pron/n/nar/narro/narrow__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nar/narro/narrow__gb_2.mp3"
+  },
+  {
+    "english": "narrow",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/narrow_2",
+    "url_audion_1": "/media/english/us_pron/n/nar/narro/narrow__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nar/narro/narrow__gb_2.mp3"
+  },
+  {
+    "english": "nasty",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/nasty",
+    "url_audion_1": "/media/english/us_pron/n/nas/nasty/nasty__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nas/nasty/nasty__gb_1.mp3"
+  },
+  {
+    "english": "nation",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/nation",
+    "url_audion_1": "/media/english/us_pron/n/nat/natio/nation__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/natio/nation__gb_3.mp3"
+  },
+  {
+    "english": "national",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/national_1",
+    "url_audion_1": "/media/english/us_pron/n/nat/natio/national__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/natio/national__gb_2.mp3"
+  },
+  {
+    "english": "national",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/national_2",
+    "url_audion_1": "/media/english/us_pron/n/nat/natio/national__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/natio/national__gb_2.mp3"
+  },
+  {
+    "english": "nationwide",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/nationwide_1",
+    "url_audion_1": "/media/english/us_pron/n/nat/natio/nationwide__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/natio/nationwide__gb_2.mp3"
+  },
+  {
+    "english": "native",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/native_1",
+    "url_audion_1": "/media/english/us_pron/n/nat/nativ/native__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/nativ/native__gb_1.mp3"
+  },
+  {
+    "english": "native",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/native_2",
+    "url_audion_1": "/media/english/us_pron/n/nat/nativ/native__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/nativ/native__gb_1.mp3"
+  },
+  {
+    "english": "natural",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/natural_1",
+    "url_audion_1": "/media/english/us_pron/n/nat/natur/natural__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/natur/natural__gb_6.mp3"
+  },
+  {
+    "english": "naturally",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/naturally",
+    "url_audion_1": "/media/english/us_pron/n/nat/natur/naturally__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/natur/naturally__gb_1.mp3"
+  },
+  {
+    "english": "nature",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/nature_1",
+    "url_audion_1": "/media/english/us_pron/n/nat/natur/nature__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nat/natur/nature__gb_2.mp3"
+  },
+  {
+    "english": "naval",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/naval",
+    "url_audion_1": "/media/english/us_pron/n/nav/naval/naval__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nav/naval/naval__gb_1.mp3"
+  },
+  {
+    "english": "navigation",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/navigation",
+    "url_audion_1": "/media/english/us_pron/n/nav/navig/navigation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nav/navig/navigation__gb_1.mp3"
+  },
+  {
+    "english": "near",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/near_2",
+    "url_audion_1": "/media/english/us_pron/n/nea/near_/near__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nea/near_/near__gb_2.mp3"
+  },
+  {
+    "english": "near",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/near_3",
+    "url_audion_1": "/media/english/us_pron/n/nea/near_/near__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nea/near_/near__gb_2.mp3"
+  },
+  {
+    "english": "near",
+    "type": "preposition",
+    "level": "a1",
+    "url_definition": "/definition/english/near_1",
+    "url_audion_1": "/media/english/us_pron/n/nea/near_/near__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nea/near_/near__gb_2.mp3"
+  },
+  {
+    "english": "nearby",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/nearby_1",
+    "url_audion_1": "/media/english/us_pron/n/nea/nearb/nearby__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nea/nearb/nearby__gb_1.mp3"
+  },
+  {
+    "english": "nearby",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/nearby_2",
+    "url_audion_1": "/media/english/us_pron/n/nea/nearb/nearby__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nea/nearb/nearby__gb_1.mp3"
+  },
+  {
+    "english": "nearly",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/nearly",
+    "url_audion_1": "/media/english/us_pron/n/nea/nearl/nearly__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nea/nearl/nearly__gb_1.mp3"
+  },
+  {
+    "english": "neat",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/neat",
+    "url_audion_1": "/media/english/us_pron/n/nea/neat_/neat__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nea/neat_/neat__gb_1.mp3"
+  },
+  {
+    "english": "necessarily",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/necessarily",
+    "url_audion_1": "/media/english/us_pron/n/nec/neces/necessarily__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nec/neces/necessarily__gb_1.mp3"
+  },
+  {
+    "english": "necessary",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/necessary",
+    "url_audion_1": "/media/english/us_pron/n/nec/neces/necessary__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nec/neces/necessary__gb_2.mp3"
+  },
+  {
+    "english": "necessity",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/necessity",
+    "url_audion_1": "/media/english/us_pron/n/nec/neces/necessity__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nec/neces/necessity__gb_1.mp3"
+  },
+  {
+    "english": "neck",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/neck_1",
+    "url_audion_1": "/media/english/us_pron/n/nec/neck_/neck__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nec/neck_/neck__gb_2.mp3"
+  },
+  {
+    "english": "need",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/need_2",
+    "url_audion_1": "/media/english/us_pron/n/nee/need_/need__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nee/need_/need__gb_2.mp3"
+  },
+  {
+    "english": "need",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/need_1",
+    "url_audion_1": "/media/english/us_pron/n/nee/need_/need__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nee/need_/need__gb_2.mp3"
+  },
+  {
+    "english": "need",
+    "type": "modal verb",
+    "level": "b1",
+    "url_definition": "/definition/english/need_3",
+    "url_audion_1": "/media/english/us_pron/n/nee/need_/need__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nee/need_/need__gb_2.mp3"
+  },
+  {
+    "english": "needle",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/needle_1",
+    "url_audion_1": "/media/english/us_pron/n/nee/needl/needle__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nee/needl/needle__gb_1.mp3"
+  },
+  {
+    "english": "negative",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/negative_1",
+    "url_audion_1": "/media/english/us_pron/n/neg/negat/negative__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/neg/negat/negative__gb_2.mp3"
+  },
+  {
+    "english": "negative",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/negative_2",
+    "url_audion_1": "/media/english/us_pron/n/neg/negat/negative__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/neg/negat/negative__gb_2.mp3"
+  },
+  {
+    "english": "neglect",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/neglect_2",
+    "url_audion_1": "/media/english/us_pron/n/neg/negle/neglect__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/neg/negle/neglect__gb_1.mp3"
+  },
+  {
+    "english": "neglect",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/neglect_1",
+    "url_audion_1": "/media/english/us_pron/n/neg/negle/neglect__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/neg/negle/neglect__gb_1.mp3"
+  },
+  {
+    "english": "negotiate",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/negotiate",
+    "url_audion_1": "/media/english/us_pron/n/neg/negot/negotiate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/neg/negot/negotiate__gb_1.mp3"
+  },
+  {
+    "english": "negotiation",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/negotiation",
+    "url_audion_1": "/media/english/us_pron/n/neg/negot/negotiation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/neg/negot/negotiation__gb_1.mp3"
+  },
+  {
+    "english": "neighbour",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/neighbour_1",
+    "url_audion_1": "/media/english/us_pron/n/nei/neigh/neighbour__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nei/neigh/neighbour__gb_1.mp3"
+  },
+  {
+    "english": "neighbourhood",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/neighbourhood",
+    "url_audion_1": "/media/english/us_pron/n/nei/neigh/neighbourhood__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nei/neigh/neighbourhood__gb_1.mp3"
+  },
+  {
+    "english": "neighbouring",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/neighbouring",
+    "url_audion_1": "/media/english/us_pron/n/nei/neigh/neighbouring__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nei/neigh/neighbouring__gb_1.mp3"
+  },
+  {
+    "english": "neither",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/neither_2",
+    "url_audion_1": "/media/english/us_pron/n/nei/neith/neither__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nei/neith/neither__gb_1.mp3"
+  },
+  {
+    "english": "neither",
+    "type": "determiner",
+    "level": "a2",
+    "url_definition": "/definition/english/neither_1",
+    "url_audion_1": "/media/english/us_pron/n/nei/neith/neither__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nei/neith/neither__gb_1.mp3"
+  },
+  {
+    "english": "neither",
+    "type": "pronoun",
+    "level": "a2",
+    "url_definition": "/definition/english/neither_1",
+    "url_audion_1": "/media/english/us_pron/n/nei/neith/neither__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nei/neith/neither__gb_1.mp3"
+  },
+  {
+    "english": "nerve",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/nerve_1",
+    "url_audion_1": "/media/english/us_pron/n/ner/nerve/nerve__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/ner/nerve/nerve__gb_1.mp3"
+  },
+  {
+    "english": "nervous",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/nervous",
+    "url_audion_1": "/media/english/us_pron/n/ner/nervo/nervous__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/ner/nervo/nervous__gb_1.mp3"
+  },
+  {
+    "english": "nest",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/nest_1",
+    "url_audion_1": "/media/english/us_pron/n/nes/nest_/nest__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nes/nest_/nest__gb_1.mp3"
+  },
+  {
+    "english": "net",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/net_3",
+    "url_audion_1": "/media/english/us_pron/n/net/net__/net__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/net/net__/net__gb_2.mp3"
+  },
+  {
+    "english": "net",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/net_1",
+    "url_audion_1": "/media/english/us_pron/n/net/net__/net__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/net/net__/net__gb_2.mp3"
+  },
+  {
+    "english": "network",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/network_1",
+    "url_audion_1": "/media/english/us_pron/n/net/netwo/network__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/net/netwo/network__gb_2.mp3"
+  },
+  {
+    "english": "neutral",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/neutral_1",
+    "url_audion_1": "/media/english/us_pron/n/neu/neutr/neutral__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/neu/neutr/neutral__gb_2.mp3"
+  },
+  {
+    "english": "never",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/never_1",
+    "url_audion_1": "/media/english/us_pron/n/nev/never/never__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nev/never/never__gb_1.mp3"
+  },
+  {
+    "english": "nevertheless",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/nevertheless",
+    "url_audion_1": "/media/english/us_pron/n/nev/never/nevertheless__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nev/never/nevertheless__gb_2.mp3"
+  },
+  {
+    "english": "new",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/new",
+    "url_audion_1": "/media/english/us_pron/n/new/new__/new__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/new/new__/new__gb_2.mp3"
+  },
+  {
+    "english": "newly",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/newly",
+    "url_audion_1": "/media/english/us_pron/n/new/newly/newly__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/new/newly/newly__gb_1.mp3"
+  },
+  {
+    "english": "news",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/news",
+    "url_audion_1": "/media/english/us_pron/n/new/news_/news__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/new/news_/news__gb_2.mp3"
+  },
+  {
+    "english": "newsletter",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/newsletter",
+    "url_audion_1": "/media/english/us_pron/n/new/newsl/newsletter__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/new/newsl/newsletter__gb_1.mp3"
+  },
+  {
+    "english": "newspaper",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/newspaper",
+    "url_audion_1": "/media/english/us_pron/n/new/newsp/newspaper__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/new/newsp/newspaper__gb_1.mp3"
+  },
+  {
+    "english": "next",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/next_1",
+    "url_audion_1": "/media/english/us_pron/n/nex/next_/next__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nex/next_/next__gb_1.mp3"
+  },
+  {
+    "english": "next",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/next_2",
+    "url_audion_1": "/media/english/us_pron/n/nex/next_/next__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nex/next_/next__gb_1.mp3"
+  },
+  {
+    "english": "next",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/next_3",
+    "url_audion_1": "/media/english/us_pron/n/nex/next_/next__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nex/next_/next__gb_1.mp3"
+  },
+  {
+    "english": ["next", "to"],
+    "type": "preposition",
+    "level": "a1",
+    "url_definition": "/definition/english/next-to",
+    "url_audion_1": "/media/english/us_pron/n/nex/next_/next_to_1_us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nex/next_/next_to_1_gb_1.mp3"
+  },
+  {
+    "english": "nice",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/nice",
+    "url_audion_1": "/media/english/us_pron/n/nic/nice_/nice__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nic/nice_/nice__gb_1.mp3"
+  },
+  {
+    "english": "niche",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/niche_1",
+    "url_audion_1": "/media/english/us_pron/n/nic/niche/niche__us_3_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nic/niche/niche__gb_1.mp3"
+  },
+  {
+    "english": "night",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/night",
+    "url_audion_1": "/media/english/us_pron/n/nig/night/night__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nig/night/night__gb_2.mp3"
+  },
+  {
+    "english": "nightmare",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/nightmare",
+    "url_audion_1": "/media/english/us_pron/n/nig/night/nightmare__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nig/night/nightmare__gb_1.mp3"
+  },
+  {
+    "english": "nine",
+    "type": "number",
+    "level": "a1",
+    "url_definition": "/definition/english/nine",
+    "url_audion_1": "/media/english/us_pron/n/nin/nine_/nine__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nin/nine_/nine__gb_1.mp3"
+  },
+  {
+    "english": "nineteen",
+    "type": "number",
+    "level": "a1",
+    "url_definition": "/definition/english/nineteen",
+    "url_audion_1": "/media/english/us_pron/n/nin/ninet/nineteen__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nin/ninet/nineteen__gb_1.mp3"
+  },
+  {
+    "english": "ninety",
+    "type": "number",
+    "level": "a1",
+    "url_definition": "/definition/english/ninety",
+    "url_audion_1": "/media/english/us_pron/n/nin/ninet/ninety__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nin/ninet/ninety__gb_2.mp3"
+  },
+  {
+    "english": "no",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/no_2",
+    "url_audion_1": "/media/english/us_pron/n/no_/no__u/no__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/no_/no__g/no__gb_1.mp3"
+  },
+  {
+    "english": "no",
+    "type": "exclamation",
+    "level": "a1",
+    "url_definition": "/definition/english/no_1",
+    "url_audion_1": "/media/english/us_pron/n/no_/no__u/no__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/no_/no__g/no__gb_1.mp3"
+  },
+  {
+    "english": ["no", "one"],
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/no-one",
+    "url_audion_1": "/media/english/us_pron/n/no_/no_on/no_one_1_us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/no_/no_on/no_one_1_gb_1.mp3"
+  },
+  {
+    "english": "noble",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/noble_1",
+    "url_audion_1": "/media/english/us_pron/n/nob/noble/noble__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nob/noble/noble__gb_1.mp3"
+  },
+  {
+    "english": "nobody",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/nobody_1",
+    "url_audion_1": "/media/english/us_pron/n/nob/nobod/nobody__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nob/nobod/nobody__gb_1.mp3"
+  },
+  {
+    "english": "nod",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/nod_1",
+    "url_audion_1": "/media/english/us_pron/n/nod/nod__/nod__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nod/nod__/nod__gb_2.mp3"
+  },
+  {
+    "english": "noise",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/noise",
+    "url_audion_1": "/media/english/us_pron/n/noi/noise/noise__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/noi/noise/noise__gb_1.mp3"
+  },
+  {
+    "english": "noisy",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/noisy",
+    "url_audion_1": "/media/english/us_pron/n/noi/noisy/noisy__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/noi/noisy/noisy__gb_1.mp3"
+  },
+  {
+    "english": "nominate",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/nominate",
+    "url_audion_1": "/media/english/us_pron/n/nom/nomin/nominate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nom/nomin/nominate__gb_1.mp3"
+  },
+  {
+    "english": "nomination",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/nomination",
+    "url_audion_1": "/media/english/us_pron/n/nom/nomin/nomination__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nom/nomin/nomination__gb_1.mp3"
+  },
+  {
+    "english": "nominee",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/nominee",
+    "url_audion_1": "/media/english/us_pron/n/nom/nomin/nominee__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nom/nomin/nominee__gb_1.mp3"
+  },
+  {
+    "english": "non-profit",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/non-profit",
+    "url_audion_1": "/media/english/us_pron/n/non/non_p/non_profit_1_us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/non/non_p/non_profit_1_gb_1.mp3"
+  },
+  {
+    "english": "none",
+    "type": "pronoun",
+    "level": "a2",
+    "url_definition": "/definition/english/none_1",
+    "url_audion_1": "/media/english/us_pron/n/non/none_/none__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/non/none_/none__gb_1.mp3"
+  },
+  {
+    "english": "nonetheless",
+    "type": "adverb",
+    "level": "c1",
+    "url_definition": "/definition/english/nonetheless",
+    "url_audion_1": "/media/english/us_pron/n/non/nonet/nonetheless__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/non/nonet/nonetheless__gb_2.mp3"
+  },
+  {
+    "english": "nonsense",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/nonsense",
+    "url_audion_1": "/media/english/us_pron/n/non/nonse/nonsense__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/non/nonse/nonsense__gb_1.mp3"
+  },
+  {
+    "english": "noon",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/noon",
+    "url_audion_1": "/media/english/us_pron/n/noo/noon_/noon__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/noo/noon_/noon__gb_1.mp3"
+  },
+  {
+    "english": "nor",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/nor",
+    "url_audion_1": "/media/english/us_pron/n/nor/nor__/nor__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/nor__/nor__gb_1.mp3"
+  },
+  {
+    "english": "nor",
+    "type": "conjunction",
+    "level": "b1",
+    "url_definition": "/definition/english/nor",
+    "url_audion_1": "/media/english/us_pron/n/nor/nor__/nor__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/nor__/nor__gb_1.mp3"
+  },
+  {
+    "english": "norm",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/norm_1",
+    "url_audion_1": "/media/english/us_pron/n/nor/norm_/norm__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/norm_/norm__gb_2.mp3"
+  },
+  {
+    "english": "normal",
+    "type": "adjective",
+    "level": "a2",
+    "url_definition": "/definition/english/normal_1",
+    "url_audion_1": "/media/english/us_pron/n/nor/norma/normal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/norma/normal__gb_1.mp3"
+  },
+  {
+    "english": "normal",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/normal_2",
+    "url_audion_1": "/media/english/us_pron/n/nor/norma/normal__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/norma/normal__gb_1.mp3"
+  },
+  {
+    "english": "normally",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/normally",
+    "url_audion_1": "/media/english/us_pron/n/nor/norma/normally__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/norma/normally__gb_4.mp3"
+  },
+  {
+    "english": "north",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/north_2",
+    "url_audion_1": "/media/english/us_pron/n/nor/north/north__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/north/north__gb_1.mp3"
+  },
+  {
+    "english": "north",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/north_3",
+    "url_audion_1": "/media/english/us_pron/n/nor/north/north__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/north/north__gb_1.mp3"
+  },
+  {
+    "english": "north",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/north_1",
+    "url_audion_1": "/media/english/us_pron/n/nor/north/north__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/north/north__gb_1.mp3"
+  },
+  {
+    "english": "northern",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/northern",
+    "url_audion_1": "/media/english/us_pron/n/nor/north/northern__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nor/north/northern__gb_1.mp3"
+  },
+  {
+    "english": "nose",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/nose_1",
+    "url_audion_1": "/media/english/us_pron/n/nos/nose_/nose__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nos/nose_/nose__gb_1.mp3"
+  },
+  {
+    "english": "not",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/not",
+    "url_audion_1": "/media/english/us_pron/n/not/not__/not__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/not__/not__gb_1.mp3"
+  },
+  {
+    "english": "notable",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/notable_1",
+    "url_audion_1": "/media/english/us_pron/n/not/notab/notable__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/notab/notable__gb_1.mp3"
+  },
+  {
+    "english": "notably",
+    "type": "adverb",
+    "level": "c1",
+    "url_definition": "/definition/english/notably",
+    "url_audion_1": "/media/english/us_pron/n/not/notab/notably__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/notab/notably__gb_1.mp3"
+  },
+  {
+    "english": "note",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/note_1",
+    "url_audion_1": "/media/english/us_pron/n/not/note_/note__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/note_/note__gb_2.mp3"
+  },
+  {
+    "english": "note",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/note_2",
+    "url_audion_1": "/media/english/us_pron/n/not/note_/note__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/note_/note__gb_2.mp3"
+  },
+  {
+    "english": "notebook",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/notebook",
+    "url_audion_1": "/media/english/us_pron/n/not/noteb/notebook__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/noteb/notebook__gb_1.mp3"
+  },
+  {
+    "english": "nothing",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/nothing",
+    "url_audion_1": "/media/english/us_pron/n/not/nothi/nothing__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/nothi/nothing__gb_1.mp3"
+  },
+  {
+    "english": "notice",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/notice_2",
+    "url_audion_1": "/media/english/us_pron/n/not/notic/notice__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/notic/notice__gb_1.mp3"
+  },
+  {
+    "english": "notice",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/notice_1",
+    "url_audion_1": "/media/english/us_pron/n/not/notic/notice__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/notic/notice__gb_1.mp3"
+  },
+  {
+    "english": "notify",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/notify",
+    "url_audion_1": "/media/english/us_pron/n/not/notif/notify__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/notif/notify__gb_1.mp3"
+  },
+  {
+    "english": "notion",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/notion",
+    "url_audion_1": "/media/english/us_pron/n/not/notio/notion__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/notio/notion__gb_1.mp3"
+  },
+  {
+    "english": "notorious",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/notorious",
+    "url_audion_1": "/media/english/us_pron/n/not/notor/notorious__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/not/notor/notorious__gb_1.mp3"
+  },
+  {
+    "english": "novel",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/novel_2",
+    "url_audion_1": "/media/english/us_pron/n/nov/novel/novel__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nov/novel/novel__gb_1.mp3"
+  },
+  {
+    "english": "novel",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/novel_1",
+    "url_audion_1": "/media/english/us_pron/n/nov/novel/novel__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nov/novel/novel__gb_1.mp3"
+  },
+  {
+    "english": "novelist",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/novelist",
+    "url_audion_1": "/media/english/us_pron/n/nov/novel/novelist__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nov/novel/novelist__gb_1.mp3"
+  },
+  {
+    "english": "november",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/november",
+    "url_audion_1": "/media/english/us_pron/n/nov/novem/november__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nov/novem/november__gb_1.mp3"
+  },
+  {
+    "english": "now",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/now_1",
+    "url_audion_1": "/media/english/us_pron/n/now/now__/now__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/now/now__/now__gb_1.mp3"
+  },
+  {
+    "english": "now",
+    "type": "conjunction",
+    "level": "b1",
+    "url_definition": "/definition/english/now_2",
+    "url_audion_1": "/media/english/us_pron/n/now/now__/now__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/now/now__/now__gb_1.mp3"
+  },
+  {
+    "english": "nowadays",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/nowadays",
+    "url_audion_1": "/media/english/us_pron/n/now/nowad/nowadays__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/now/nowad/nowadays__gb_1.mp3"
+  },
+  {
+    "english": "nowhere",
+    "type": "adverb",
+    "level": "a2",
+    "url_definition": "/definition/english/nowhere",
+    "url_audion_1": "/media/english/us_pron/n/now/nowhe/nowhere__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/now/nowhe/nowhere__gb_1.mp3"
+  },
+  {
+    "english": "nuclear",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/nuclear",
+    "url_audion_1": "/media/english/us_pron/n/nuc/nucle/nuclear__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nuc/nucle/nuclear__gb_2.mp3"
+  },
+  {
+    "english": "number",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/number_1",
+    "url_audion_1": "/media/english/us_pron/n/num/numbe/number__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/num/numbe/number__gb_1.mp3"
+  },
+  {
+    "english": "number",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/number_2",
+    "url_audion_1": "/media/english/us_pron/n/num/numbe/number__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/num/numbe/number__gb_1.mp3"
+  },
+  {
+    "english": "numerous",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/numerous",
+    "url_audion_1": "/media/english/us_pron/n/num/numer/numerous__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/num/numer/numerous__gb_2.mp3"
+  },
+  {
+    "english": "nurse",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/nurse_1",
+    "url_audion_1": "/media/english/us_pron/n/nur/nurse/nurse__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nur/nurse/nurse__gb_1.mp3"
+  },
+  {
+    "english": "nursery",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/nursery_1",
+    "url_audion_1": "/media/english/us_pron/n/nur/nurse/nursery__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nur/nurse/nursery__gb_1.mp3"
+  },
+  {
+    "english": "nursing",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/nursing",
+    "url_audion_1": "",
+    "url_audion_2": ""
+  },
+  {
+    "english": "nut",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/nut_1",
+    "url_audion_1": "/media/english/us_pron/n/nut/nut__/nut__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nut/nut__/nut__gb_1.mp3"
+  },
+  {
+    "english": "nutrition",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/nutrition",
+    "url_audion_1": "/media/english/us_pron/n/nut/nutri/nutrition__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/n/nut/nutri/nutrition__gb_1.mp3"
+  },
+  {
+    "english": "o'clock",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/o-clock",
+    "url_audion_1": "/media/english/us_pron/o/o_c/o_clo/o_clock_1_us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/o_c/o_clo/o_clock_1_gb_1.mp3"
+  },
+  {
+    "english": "obesity",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/obesity",
+    "url_audion_1": "/media/english/us_pron/o/obe/obesi/obesity__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obe/obesi/obesity__gb_1.mp3"
+  },
+  {
+    "english": "obey",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/obey",
+    "url_audion_1": "/media/english/us_pron/o/obe/obey_/obey__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obe/obey_/obey__gb_1.mp3"
+  },
+  {
+    "english": "object",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/object_1",
+    "url_audion_1": "/media/english/us_pron/o/obj/objec/object__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obj/objec/object__gb_1.mp3"
+  },
+  {
+    "english": "object",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/object_2",
+    "url_audion_1": "/media/english/us_pron/o/obj/objec/object__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obj/objec/object__gb_2.mp3"
+  },
+  {
+    "english": "objection",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/objection",
+    "url_audion_1": "/media/english/us_pron/o/obj/objec/objection__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obj/objec/objection__gb_1.mp3"
+  },
+  {
+    "english": "objective",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/objective_2",
+    "url_audion_1": "/media/english/us_pron/o/obj/objec/objective__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obj/objec/objective__gb_2.mp3"
+  },
+  {
+    "english": "objective",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/objective_1",
+    "url_audion_1": "/media/english/us_pron/o/obj/objec/objective__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obj/objec/objective__gb_2.mp3"
+  },
+  {
+    "english": "obligation",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/obligation",
+    "url_audion_1": "/media/english/us_pron/o/obl/oblig/obligation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obl/oblig/obligation__gb_1.mp3"
+  },
+  {
+    "english": "oblige",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/oblige",
+    "url_audion_1": "/media/english/us_pron/o/obl/oblig/oblige__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obl/oblig/oblige__gb_1.mp3"
+  },
+  {
+    "english": "observation",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/observation",
+    "url_audion_1": "/media/english/us_pron/o/obs/obser/observation__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obs/obser/observation__gb_3.mp3"
+  },
+  {
+    "english": "observe",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/observe",
+    "url_audion_1": "/media/english/us_pron/o/obs/obser/observe__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obs/obser/observe__gb_2.mp3"
+  },
+  {
+    "english": "observer",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/observer",
+    "url_audion_1": "/media/english/us_pron/o/obs/obser/observer__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obs/obser/observer__gb_1.mp3"
+  },
+  {
+    "english": "obsess",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/obsess",
+    "url_audion_1": "/media/english/us_pron/o/obs/obses/obsess__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obs/obses/obsess__gb_1.mp3"
+  },
+  {
+    "english": "obsession",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/obsession",
+    "url_audion_1": "/media/english/us_pron/o/obs/obses/obsession__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obs/obses/obsession__gb_1.mp3"
+  },
+  {
+    "english": "obstacle",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/obstacle",
+    "url_audion_1": "/media/english/us_pron/o/obs/obsta/obstacle__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obs/obsta/obstacle__gb_1.mp3"
+  },
+  {
+    "english": "obtain",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/obtain",
+    "url_audion_1": "/media/english/us_pron/o/obt/obtai/obtain__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obt/obtai/obtain__gb_2.mp3"
+  },
+  {
+    "english": "obvious",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/obvious",
+    "url_audion_1": "/media/english/us_pron/o/obv/obvio/obvious__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obv/obvio/obvious__gb_2.mp3"
+  },
+  {
+    "english": "obviously",
+    "type": "adverb",
+    "level": "b1",
+    "url_definition": "/definition/english/obviously",
+    "url_audion_1": "/media/english/us_pron/o/obv/obvio/obviously__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/obv/obvio/obviously__gb_1.mp3"
+  },
+  {
+    "english": "occasion",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/occasion_1",
+    "url_audion_1": "/media/english/us_pron/o/occ/occas/occasion__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/occ/occas/occasion__gb_1.mp3"
+  },
+  {
+    "english": "occasional",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/occasional",
+    "url_audion_1": "/media/english/us_pron/o/occ/occas/occasional__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/occ/occas/occasional__gb_1.mp3"
+  },
+  {
+    "english": "occasionally",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/occasionally",
+    "url_audion_1": "/media/english/us_pron/o/occ/occas/occasionally__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/occ/occas/occasionally__gb_2.mp3"
+  },
+  {
+    "english": "occupation",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/occupation",
+    "url_audion_1": "/media/english/us_pron/o/occ/occup/occupation__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/occ/occup/occupation__gb_3.mp3"
+  },
+  {
+    "english": "occupy",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/occupy",
+    "url_audion_1": "/media/english/us_pron/o/occ/occup/occupy__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/occ/occup/occupy__gb_1.mp3"
+  },
+  {
+    "english": "occur",
+    "type": "verb",
+    "level": "b1",
+    "url_definition": "/definition/english/occur",
+    "url_audion_1": "/media/english/us_pron/o/occ/occur/occur__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/occ/occur/occur__gb_2.mp3"
+  },
+  {
+    "english": "occurrence",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/occurrence",
+    "url_audion_1": "/media/english/us_pron/o/occ/occur/occurrence__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/occ/occur/occurrence__gb_2.mp3"
+  },
+  {
+    "english": "ocean",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/ocean",
+    "url_audion_1": "/media/english/us_pron/o/oce/ocean/ocean__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/oce/ocean/ocean__gb_1.mp3"
+  },
+  {
+    "english": "october",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/october",
+    "url_audion_1": "/media/english/us_pron/o/oct/octob/october__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/oct/octob/october_1_gb_1.mp3"
+  },
+  {
+    "english": "odd",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/odd",
+    "url_audion_1": "/media/english/us_pron/o/odd/odd__/odd__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/odd/odd__/odd__gb_2.mp3"
+  },
+  {
+    "english": "odds",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/odds",
+    "url_audion_1": "/media/english/us_pron/o/odd/odds_/odds__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/odd/odds_/odds__gb_1.mp3"
+  },
+  {
+    "english": "of",
+    "type": "preposition",
+    "level": "a1",
+    "url_definition": "/definition/english/of",
+    "url_audion_1": "/media/english/us_pron/o/of_/of__u/of__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/of_/of__g/of__gb_1.mp3"
+  },
+  {
+    "english": "off",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/off_1",
+    "url_audion_1": "/media/english/us_pron/o/off/off__/off__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/off__/off__gb_1.mp3"
+  },
+  {
+    "english": "off",
+    "type": "preposition",
+    "level": "a1",
+    "url_definition": "/definition/english/off_2",
+    "url_audion_1": "/media/english/us_pron/o/off/off__/off__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/off__/off__gb_1.mp3"
+  },
+  {
+    "english": "offence",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/offence",
+    "url_audion_1": "/media/english/us_pron/o/off/offen/offence__us_5.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offen/offence__gb_1.mp3"
+  },
+  {
+    "english": "offend",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/offend",
+    "url_audion_1": "/media/english/us_pron/o/off/offen/offend__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offen/offend__gb_1.mp3"
+  },
+  {
+    "english": "offender",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/offender",
+    "url_audion_1": "/media/english/us_pron/o/off/offen/offender__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offen/offender__gb_1.mp3"
+  },
+  {
+    "english": "offensive",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/offensive_1",
+    "url_audion_1": "/media/english/us_pron/o/off/offen/offensive__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offen/offensive__gb_1.mp3"
+  },
+  {
+    "english": "offer",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/offer_2",
+    "url_audion_1": "/media/english/us_pron/o/off/offer/offer__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offer/offer__gb_1.mp3"
+  },
+  {
+    "english": "offer",
+    "type": "verb",
+    "level": "a2",
+    "url_definition": "/definition/english/offer_1",
+    "url_audion_1": "/media/english/us_pron/o/off/offer/offer__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offer/offer__gb_1.mp3"
+  },
+  {
+    "english": "offering",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/offering",
+    "url_audion_1": "/media/english/us_pron/o/off/offer/offering__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offer/offering__gb_1.mp3"
+  },
+  {
+    "english": "office",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/office",
+    "url_audion_1": "/media/english/us_pron/o/off/offic/office__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offic/office__gb_2.mp3"
+  },
+  {
+    "english": "officer",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/officer",
+    "url_audion_1": "/media/english/us_pron/o/off/offic/officer__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offic/officer__gb_1.mp3"
+  },
+  {
+    "english": "official",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/official_1",
+    "url_audion_1": "/media/english/us_pron/o/off/offic/official__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offic/official__gb_1.mp3"
+  },
+  {
+    "english": "official",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/official_2",
+    "url_audion_1": "/media/english/us_pron/o/off/offic/official__us_4.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offic/official__gb_1.mp3"
+  },
+  {
+    "english": "offspring",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/offspring",
+    "url_audion_1": "/media/english/us_pron/o/off/offsp/offspring__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/off/offsp/offspring__gb_1.mp3"
+  },
+  {
+    "english": "often",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/often",
+    "url_audion_1": "/media/english/us_pron/o/oft/often/often__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/oft/often/often__gb_1.mp3"
+  },
+  {
+    "english": "oh",
+    "type": "exclamation",
+    "level": "a1",
+    "url_definition": "/definition/english/oh_1",
+    "url_audion_1": "/media/english/us_pron/o/oh_/oh__u/oh__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/owe/owe__/owe__gb_2.mp3"
+  },
+  {
+    "english": "oil",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/oil_1",
+    "url_audion_1": "/media/english/us_pron/o/oil/oil__/oil__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/oil/oil__/oil__gb_1.mp3"
+  },
+  {
+    "english": "ok",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/ok_2",
+    "url_audion_1": "/media/english/us_pron/o/ok_/ok__u/ok__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ok_/ok__g/ok__gb_1.mp3"
+  },
+  {
+    "english": "ok",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/ok_2",
+    "url_audion_1": "/media/english/us_pron/o/ok_/ok__u/ok__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ok_/ok__g/ok__gb_1.mp3"
+  },
+  {
+    "english": "ok",
+    "type": "exclamation",
+    "level": "a1",
+    "url_definition": "/definition/english/ok_1",
+    "url_audion_1": "/media/english/us_pron/o/ok_/ok__u/ok__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ok_/ok__g/ok__gb_1.mp3"
+  },
+  {
+    "english": "old",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/old",
+    "url_audion_1": "/media/english/us_pron/o/old/old__/old__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/old/old__/old__gb_3.mp3"
+  },
+  {
+    "english": "old-fashioned",
+    "type": "adjective",
+    "level": "b1",
+    "url_definition": "/definition/english/old-fashioned",
+    "url_audion_1": "/media/english/us_pron/o/old/old_f/old_fashioned__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/old/old_f/old_fashioned_1_gb_2.mp3"
+  },
+  {
+    "english": "on",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/on_2",
+    "url_audion_1": "/media/english/us_pron/o/on_/on__u/on__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/on_/on__g/on__gb_1.mp3"
+  },
+  {
+    "english": "on",
+    "type": "preposition",
+    "level": "a1",
+    "url_definition": "/definition/english/on_1",
+    "url_audion_1": "/media/english/us_pron/o/on_/on__u/on__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/on_/on__g/on__gb_1.mp3"
+  },
+  {
+    "english": "once",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/once_1",
+    "url_audion_1": "/media/english/us_pron/o/onc/once_/once__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/onc/once_/once__gb_1.mp3"
+  },
+  {
+    "english": "once",
+    "type": "conjunction",
+    "level": "b1",
+    "url_definition": "/definition/english/once_2",
+    "url_audion_1": "/media/english/us_pron/o/onc/once_/once__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/onc/once_/once__gb_1.mp3"
+  },
+  {
+    "english": "one",
+    "type": "determiner",
+    "level": "a1",
+    "url_definition": "/definition/english/one_1",
+    "url_audion_1": "/media/english/us_pron/o/one/one__/one__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/one/one__/one__gb_2.mp3"
+  },
+  {
+    "english": "one",
+    "type": "number",
+    "level": "a1",
+    "url_definition": "/definition/english/one_1",
+    "url_audion_1": "/media/english/us_pron/o/one/one__/one__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/one/one__/one__gb_2.mp3"
+  },
+  {
+    "english": "one",
+    "type": "pronoun",
+    "level": "a1",
+    "url_definition": "/definition/english/one_2",
+    "url_audion_1": "/media/english/us_pron/o/one/one__/one__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/one/one__/one__gb_2.mp3"
+  },
+  {
+    "english": "ongoing",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/ongoing",
+    "url_audion_1": "/media/english/us_pron/o/ong/ongoi/ongoing__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ong/ongoi/ongoing__gb_3.mp3"
+  },
+  {
+    "english": "onion",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/onion",
+    "url_audion_1": "/media/english/us_pron/o/oni/onion/onion__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/oni/onion/onion__gb_2.mp3"
+  },
+  {
+    "english": "online",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/online_1",
+    "url_audion_1": "/media/english/us_pron/o/onl/onlin/online__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/onl/onlin/online__gb_1.mp3"
+  },
+  {
+    "english": "online",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/online_2",
+    "url_audion_1": "/media/english/us_pron/o/onl/onlin/online__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/onl/onlin/online__gb_1.mp3"
+  },
+  {
+    "english": "only",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/only_1",
+    "url_audion_1": "/media/english/us_pron/o/onl/only_/only__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/onl/only_/only__gb_1.mp3"
+  },
+  {
+    "english": "only",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/only_2",
+    "url_audion_1": "/media/english/us_pron/o/onl/only_/only__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/onl/only_/only__gb_1.mp3"
+  },
+  {
+    "english": "onto",
+    "type": "preposition",
+    "level": "a2",
+    "url_definition": "/definition/english/onto",
+    "url_audion_1": "/media/english/us_pron/o/ont/onto_/onto__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ont/onto_/onto__gb_1.mp3"
+  },
+  {
+    "english": "open",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/open_1",
+    "url_audion_1": "/media/english/us_pron/o/ope/open_/open__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/open_/open__gb_2.mp3"
+  },
+  {
+    "english": "open",
+    "type": "verb",
+    "level": "a1",
+    "url_definition": "/definition/english/open_2",
+    "url_audion_1": "/media/english/us_pron/o/ope/open_/open__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/open_/open__gb_2.mp3"
+  },
+  {
+    "english": "opening",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/opening_1",
+    "url_audion_1": "/media/english/us_pron/o/ope/openi/opening__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/openi/opening__gb_1.mp3"
+  },
+  {
+    "english": "openly",
+    "type": "adverb",
+    "level": "b2",
+    "url_definition": "/definition/english/openly",
+    "url_audion_1": "/media/english/us_pron/o/ope/openl/openly__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/openl/openly__gb_1.mp3"
+  },
+  {
+    "english": "opera",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/opera",
+    "url_audion_1": "/media/english/us_pron/o/ope/opera/opera__us_1_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/opera/opera__gb_1.mp3"
+  },
+  {
+    "english": "operate",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/operate",
+    "url_audion_1": "/media/english/us_pron/o/ope/opera/operate__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/opera/operate__gb_1.mp3"
+  },
+  {
+    "english": "operation",
+    "type": "noun",
+    "level": "b1",
+    "url_definition": "/definition/english/operation",
+    "url_audion_1": "/media/english/us_pron/o/ope/opera/operation__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/opera/operation__gb_1.mp3"
+  },
+  {
+    "english": "operational",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/operational",
+    "url_audion_1": "/media/english/us_pron/o/ope/opera/operational__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/opera/operational__gb_1.mp3"
+  },
+  {
+    "english": "operator",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/operator",
+    "url_audion_1": "/media/english/us_pron/o/ope/opera/operator__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/ope/opera/operator__gb_1.mp3"
+  },
+  {
+    "english": "opinion",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/opinion",
+    "url_audion_1": "/media/english/us_pron/o/opi/opini/opinion__us_5.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opi/opini/opinion__gb_3.mp3"
+  },
+  {
+    "english": "opponent",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/opponent",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppon/opponent__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppon/opponent__gb_2.mp3"
+  },
+  {
+    "english": "opportunity",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/opportunity_1",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppor/opportunity__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppor/opportunity__gb_1.mp3"
+  },
+  {
+    "english": "oppose",
+    "type": "verb",
+    "level": "b2",
+    "url_definition": "/definition/english/oppose",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppos/oppose__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppos/oppose__gb_1.mp3"
+  },
+  {
+    "english": "opposed",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/opposed",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppos/opposed__us_3.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppos/opposed__gb_1.mp3"
+  },
+  {
+    "english": "opposite",
+    "type": "adjective",
+    "level": "a1",
+    "url_definition": "/definition/english/opposite_1",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppos/opposite__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppos/opposite__gb_1.mp3"
+  },
+  {
+    "english": "opposite",
+    "type": "adverb",
+    "level": "a1",
+    "url_definition": "/definition/english/opposite_4",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppos/opposite__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppos/opposite__gb_1.mp3"
+  },
+  {
+    "english": "opposite",
+    "type": "noun",
+    "level": "a1",
+    "url_definition": "/definition/english/opposite_2",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppos/opposite__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppos/opposite__gb_1.mp3"
+  },
+  {
+    "english": "opposite",
+    "type": "preposition",
+    "level": "a1",
+    "url_definition": "/definition/english/opposite_3",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppos/opposite__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppos/opposite__gb_1.mp3"
+  },
+  {
+    "english": "opposition",
+    "type": "noun",
+    "level": "b2",
+    "url_definition": "/definition/english/opposition",
+    "url_audion_1": "/media/english/us_pron/o/opp/oppos/opposition__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opp/oppos/opposition__gb_1.mp3"
+  },
+  {
+    "english": "opt",
+    "type": "verb",
+    "level": "c1",
+    "url_definition": "/definition/english/opt",
+    "url_audion_1": "/media/english/us_pron/o/opt/opt__/opt__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opt/opt__/opt__gb_1.mp3"
+  },
+  {
+    "english": "optical",
+    "type": "adjective",
+    "level": "c1",
+    "url_definition": "/definition/english/optical",
+    "url_audion_1": "/media/english/us_pron/o/opt/optic/optical__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opt/optic/optical__gb_1.mp3"
+  },
+  {
+    "english": "optimism",
+    "type": "noun",
+    "level": "c1",
+    "url_definition": "/definition/english/optimism",
+    "url_audion_1": "/media/english/us_pron/o/opt/optim/optimism__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opt/optim/optimism__gb_1.mp3"
+  },
+  {
+    "english": "optimistic",
+    "type": "adjective",
+    "level": "b2",
+    "url_definition": "/definition/english/optimistic",
+    "url_audion_1": "/media/english/us_pron/o/opt/optim/optimistic__us_1.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opt/optim/optimistic__gb_1.mp3"
+  },
+  {
+    "english": "option",
+    "type": "noun",
+    "level": "a2",
+    "url_definition": "/definition/english/option_1",
+    "url_audion_1": "/media/english/us_pron/o/opt/optio/option__us_2.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/opt/optio/option__gb_2.mp3"
+  },
+  {
+    "english": "or",
+    "type": "conjunction",
+    "level": "a1",
+    "url_definition": "/definition/english/or_1",
+    "url_audion_1": "/media/english/us_pron/o/or_/or__u/or__us_2_rr.mp3",
+    "url_audion_2": "/media/english/uk_pron/o/or_/or__g/or__gb_1.mp3"
+  }
+]
